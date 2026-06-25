@@ -1,0 +1,1041 @@
+movie_id,title,content_type,genre_primary,genre_secondary,release_year,duration_minutes,rating,language,country_of_origin,imdb_rating,production_budget,box_office_revenue,number_of_seasons,number_of_episodes,is_netflix_original,added_to_platform,content_warning
+movie_0001,Storm Voyage,TV Series,Crime,,2010,31,TV-MA,Japanese,USA,7.4,3411579.0,,5.0,,False,3/16/2022,False
+movie_0002,Silent Adventure,Documentary,Thriller,,2014,108,TV-G,English,USA,5.1,,,,141.0,False,2/14/2022,False
+movie_0003,Family Tale,Documentary,Sport,,2002,27,G,English,Japan,,,,,,True,6/7/2023,False
+movie_0004,Storm Shadow,Limited Series,Crime,,2015,24,TV-Y,English,France,8.1,,,6.0,151.0,False,6/8/2022,True
+movie_0005,Warrior Family,TV Series,Fantasy,,2010,394,TV-G,Spanish,Japan,4.3,2402126.0,52911298.0,,,False,4/6/2025,False
+movie_0006,Adventure World,TV Series,Music,,1992,78,PG,Korean,USA,,,,6.0,,False,9/4/2023,False
+movie_0007,Bright Crown,Documentary,Romance,,2022,50,G,English,Germany,4.9,,56600459.0,,,True,7/17/2021,False
+movie_0008,Dark Voyage,Movie,Romance,,2000,45,NC-17,English,Japan,6.5,,,,199.0,True,9/28/2021,True
+movie_0009,Adventure Family,Limited Series,Music,,1987,18,R,French,USA,7.4,,104370910.0,,,True,11/6/2025,True
+movie_0010,Hidden Adventure,Movie,Music,,1994,92,PG-13,Hindi,South Korea,8.4,,,,185.0,False,9/13/2025,False
+movie_0011,Adventure Night,Movie,Thriller,Romance,1994,58,TV-Y,English,France,8.2,,,,,False,10/31/2024,False
+movie_0012,Warrior Story,Limited Series,Adventure,,2007,146,G,English,France,6.3,,6342443.0,1.0,,False,5/22/2021,False
+movie_0013,Eternal Dream,Movie,Family,Fantasy,2003,110,TV-G,Spanish,USA,8.1,,,,,False,8/28/2024,False
+movie_0014,Night Tale,Movie,Thriller,,2002,57,TV-G,Spanish,USA,5.1,,43776568.0,,,True,4/20/2024,False
+movie_0015,Adventure Adventure,Movie,Fantasy,,2013,9,TV-G,Hindi,Japan,3.0,3724723.0,,,,False,9/12/2025,False
+movie_0016,Family Mission,TV Series,Action,,2010,78,TV-MA,English,USA,5.1,,,,,False,6/7/2023,False
+movie_0017,Fire Kingdom,Limited Series,Thriller,,2010,73,TV-Y7,English,USA,,,35361404.0,,,True,5/9/2023,True
+movie_0018,Wild Warrior,Movie,Fantasy,Mystery,2011,7,TV-MA,English,India,5.1,6551955.0,,,,False,2/29/2024,False
+movie_0019,Hidden Tale,Movie,War,Sci-Fi,2013,101,TV-Y7,English,France,,5179067.0,,,,False,9/29/2021,False
+movie_0020,House Heart,TV Series,Sport,,1982,26,TV-MA,Spanish,USA,5.4,2214374.0,,12.0,,False,9/22/2024,False
+movie_0021,Our Crown,Stand-up Comedy,Documentary,,2002,151,G,English,USA,7.4,,,11.0,,False,6/26/2023,False
+movie_0022,Dark House,Movie,Romance,,1981,70,TV-Y7,Korean,UK,9.4,,,,,True,1/27/2025,True
+movie_0023,Storm World,Stand-up Comedy,Animation,,2006,44,TV-Y7,Hindi,USA,3.1,2791795.0,,,,True,4/28/2022,False
+movie_0024,Family Saga,Limited Series,War,History,2006,87,PG-13,Mandarin,USA,3.9,,21606037.0,,,True,4/18/2025,False
+movie_0025,Silent Voyage,Movie,Crime,Adventure,2018,83,PG-13,Korean,USA,4.8,,20036577.0,,73.0,False,5/13/2022,False
+movie_0026,Bright Mission,Limited Series,Romance,,2020,81,TV-G,Hindi,UK,7.7,,,,149.0,False,6/11/2023,False
+movie_0027,Night War,Documentary,War,Romance,2008,138,R,English,France,5.9,,,,130.0,False,3/9/2023,False
+movie_0028,Journey Legend,TV Series,Mystery,,2000,91,TV-G,English,USA,5.0,,26145080.0,,,False,8/29/2024,False
+movie_0029,Lost Princess,TV Series,Animation,,2012,41,NC-17,English,USA,,7133606.0,,,,False,12/6/2021,False
+movie_0030,Bright Shadow,Limited Series,Documentary,Animation,2000,60,TV-Y7,Mandarin,France,8.0,3761990.0,,,199.0,False,3/27/2022,True
+movie_0031,Royal Crown,Documentary,Adventure,Romance,2006,189,PG,Hindi,France,6.2,,,3.0,,False,12/18/2021,False
+movie_0032,Night World,Documentary,Biography,,2017,38,TV-Y,English,UK,4.8,,,,,True,2/25/2022,True
+movie_0033,Family House,Stand-up Comedy,Family,Biography,2000,100,TV-G,English,USA,,,,14.0,,False,4/7/2023,False
+movie_0034,Wild Night,TV Series,Fantasy,,2015,141,TV-14,English,UK,5.8,3056928.0,,12.0,85.0,False,12/6/2023,False
+movie_0035,Storm War,Limited Series,Music,,2014,107,TV-Y,English,Spain,5.8,4620432.0,10524703.0,,42.0,False,4/26/2025,False
+movie_0036,Eternal Mission,Limited Series,Sport,,1995,79,TV-MA,Spanish,France,5.3,,1711277.0,6.0,,False,2/9/2023,False
+movie_0037,Journey Family,Movie,Horror,Horror,2017,88,TV-G,English,USA,7.9,6772090.0,5739134.0,3.0,,False,1/19/2023,False
+movie_0038,Dark War,Movie,Music,Adventure,2014,112,TV-Y7,German,UK,6.7,,,14.0,151.0,False,10/21/2021,False
+movie_0039,Big Mission,Movie,War,War,2007,37,NC-17,Japanese,USA,8.1,,,,58.0,True,6/30/2021,False
+movie_0040,Lost Dream,Limited Series,Sci-Fi,,1997,73,NC-17,English,USA,8.7,3247669.0,,,,False,10/21/2024,False
+movie_0041,Royal Adventure,Movie,Romance,,1996,290,NC-17,English,USA,,8991268.0,14675612.0,7.0,,True,2/29/2024,False
+movie_0042,Our Tale,Documentary,Horror,,2000,102,TV-Y7,Mandarin,Germany,,,,,105.0,True,8/30/2023,False
+movie_0043,Golden Shadow,Movie,Western,Sport,2012,81,TV-14,Korean,USA,,,,9.0,,True,3/22/2023,True
+movie_0044,Fire Legend,Movie,Comedy,Music,1995,55,TV-PG,English,Germany,,3331305.0,,,52.0,False,8/8/2023,False
+movie_0045,Bright Tale,TV Series,Crime,,2011,38,TV-PG,English,Japan,10.0,,,5.0,,False,3/24/2025,False
+movie_0046,Family Voyage,Movie,Sport,,1992,90,TV-14,Hindi,Japan,,808343.0,,,,False,12/12/2021,False
+movie_0047,Hidden Night,Limited Series,Comedy,Fantasy,2004,95,TV-MA,German,USA,,19859283.0,,,36.0,False,6/30/2023,False
+movie_0048,Wild Legend,Movie,War,Mystery,2007,70,TV-MA,German,France,6.8,1312595.0,,,145.0,True,3/17/2022,False
+movie_0049,City Shadow,Limited Series,Fantasy,,2024,367,TV-PG,Korean,USA,6.1,8830589.0,29253932.0,,,False,7/11/2021,False
+movie_0050,Silent Princess,Movie,Crime,,1990,40,NC-17,Spanish,Japan,5.8,,,,,True,6/18/2024,True
+movie_0051,Hidden Mission,Stand-up Comedy,Animation,,2023,32,NC-17,English,USA,6.8,,,,132.0,False,7/10/2024,False
+movie_0052,Eternal Legend,TV Series,Romance,,2008,56,TV-PG,French,USA,7.2,3137378.0,,,,False,4/4/2025,False
+movie_0053,Eternal Voyage,Movie,Thriller,Drama,2011,71,TV-G,English,Japan,8.4,,,,141.0,False,2/9/2021,False
+movie_0054,Eternal Dream,Movie,Drama,,2007,36,TV-MA,Japanese,USA,6.8,,7045501.0,,,False,11/20/2021,False
+movie_0055,Journey Shadow,Movie,Adventure,Horror,2011,89,TV-14,Mandarin,USA,5.4,,,12.0,,False,11/15/2023,False
+movie_0056,House Voyage,TV Series,War,,2004,96,NC-17,Mandarin,India,5.7,,,8.0,,True,1/22/2025,False
+movie_0057,Lost War,Limited Series,Drama,,2023,122,TV-14,Japanese,USA,,5563965.0,,1.0,,False,9/12/2025,False
+movie_0058,Adventure Kingdom,Movie,Music,War,2001,49,TV-Y,Japanese,USA,9.3,,,,,True,12/9/2024,False
+movie_0059,Dragon Princess,TV Series,Sport,,2019,179,TV-Y7,Spanish,USA,5.3,4381810.0,,,114.0,False,7/10/2025,False
+movie_0060,City Family,TV Series,Horror,,1999,116,TV-Y,Mandarin,USA,8.0,,,13.0,,False,1/27/2025,False
+movie_0061,Family Dream,TV Series,Music,Sci-Fi,2005,40,TV-14,German,UK,,6130088.0,,,47.0,False,7/31/2022,False
+movie_0062,Silent War,Documentary,Thriller,,1994,36,TV-PG,English,USA,,,,,,False,11/28/2023,False
+movie_0063,Hidden Kingdom,TV Series,Music,Thriller,2011,59,R,English,Japan,6.1,,,,,True,3/5/2024,False
+movie_0064,Storm Crown,Documentary,Horror,History,2022,96,R,Spanish,France,4.8,,7363328.0,,144.0,False,10/5/2022,False
+movie_0065,Lost Heart,Stand-up Comedy,Adventure,Thriller,2005,107,TV-Y7,German,USA,4.5,3866274.0,,,,False,6/5/2025,False
+movie_0066,Lost Kingdom,Movie,Mystery,,2004,116,NC-17,French,Spain,9.4,,,5.0,,False,11/8/2024,True
+movie_0067,Storm Kingdom,Movie,Music,,1993,278,G,Korean,India,6.5,,,,,False,8/2/2023,False
+movie_0068,Eternal Legend,Movie,Horror,Drama,2003,13,TV-PG,English,USA,8.3,,,11.0,,True,5/26/2023,False
+movie_0069,Golden Legend,TV Series,Music,Crime,1988,68,TV-14,English,USA,8.8,210263.0,,1.0,,True,12/17/2024,False
+movie_0070,Big Adventure,Movie,Romance,Sci-Fi,1996,263,TV-14,German,USA,5.5,21386494.0,,,16.0,False,2/9/2022,False
+movie_0071,Secret Mission,Stand-up Comedy,Horror,,2009,126,TV-Y7,English,USA,7.0,2965062.0,22032113.0,,,False,2/3/2022,False
+movie_0072,House Night,Documentary,War,,2021,31,R,French,Japan,6.4,,,,,True,1/5/2023,False
+movie_0073,Secret Tale,TV Series,Biography,,2024,86,TV-Y,French,Japan,4.2,,158732453.0,12.0,146.0,False,8/21/2021,False
+movie_0074,Dragon Empire,Documentary,Romance,Sci-Fi,1999,65,TV-Y,Spanish,USA,5.9,,,,,True,4/16/2023,True
+movie_0075,Hidden Warrior,Movie,Action,History,2022,63,TV-PG,English,USA,7.3,,,,,False,3/1/2023,False
+movie_0076,Hidden Legend,Limited Series,Adventure,,2009,48,TV-Y7,French,USA,5.4,,4761460.0,,,False,7/12/2023,False
+movie_0077,Royal Legend,Movie,Animation,Thriller,2004,80,TV-Y,English,India,,,,,87.0,False,4/23/2023,False
+movie_0078,Family Dream,TV Series,Drama,,2011,157,TV-14,English,Spain,6.0,,,,,True,6/27/2025,True
+movie_0079,Fire Kingdom,Stand-up Comedy,Comedy,,2007,51,TV-14,English,USA,10.0,,,,,True,5/16/2022,False
+movie_0080,Adventure Voyage,Documentary,Family,,2007,116,TV-Y7,English,France,3.0,9070805.0,,,25.0,False,1/21/2023,False
+movie_0081,Secret Dream,Limited Series,Drama,,2001,131,PG-13,Hindi,Japan,7.2,,,,,False,9/9/2024,True
+movie_0082,Family Night,Movie,Mystery,Biography,1990,178,R,Hindi,UK,,,,,11.0,True,6/4/2022,True
+movie_0083,Family Voyage,Limited Series,Fantasy,Fantasy,1988,35,PG,English,France,5.1,,,,,False,4/13/2024,False
+movie_0084,Big Princess,TV Series,Romance,,2013,76,TV-MA,Spanish,Germany,5.8,,,,,True,10/23/2025,False
+movie_0085,Big Legend,TV Series,History,,2003,43,NC-17,Japanese,USA,7.5,,,12.0,20.0,False,11/17/2022,False
+movie_0086,Fire Warrior,Movie,Comedy,Sci-Fi,1999,81,TV-PG,French,USA,7.6,,,,,False,3/18/2022,False
+movie_0087,Bright Shadow,Movie,Fantasy,Western,2006,80,TV-14,Spanish,India,,,,11.0,,True,12/13/2021,False
+movie_0088,Dark War,TV Series,War,Fantasy,2015,28,TV-Y,Japanese,USA,8.2,,,,,False,1/21/2021,False
+movie_0089,Dark Princess,Movie,Documentary,,2008,84,PG,English,USA,8.6,4271221.0,,1.0,114.0,False,6/3/2022,False
+movie_0090,Wild Ice,Documentary,Documentary,,1999,287,TV-Y7,English,UK,7.7,1208442.0,,,,False,3/31/2025,False
+movie_0091,Royal Princess,Limited Series,Adventure,,2020,107,PG,English,South Korea,5.3,,,,148.0,False,4/10/2022,False
+movie_0092,Journey Shadow,Stand-up Comedy,Drama,,2024,22,PG-13,Hindi,UK,7.2,,,4.0,,False,10/8/2025,False
+movie_0093,Journey Adventure,Movie,Romance,Fantasy,2012,33,TV-G,Japanese,South Korea,7.2,4304633.0,,,,False,10/6/2025,False
+movie_0094,Our Night,Stand-up Comedy,Action,Crime,2017,73,G,English,UK,4.8,,,,73.0,True,5/29/2024,False
+movie_0095,City Legend,Movie,Animation,Music,2020,34,TV-PG,English,USA,3.4,,,5.0,140.0,False,11/26/2025,False
+movie_0096,Dark Heart,TV Series,Action,,2019,171,TV-14,Hindi,France,,,,7.0,131.0,True,1/14/2023,False
+movie_0097,Golden House,Limited Series,Family,War,2013,20,TV-MA,English,South Korea,6.4,6058066.0,,,6.0,True,10/12/2025,False
+movie_0098,Secret Warrior,Movie,War,,2013,107,TV-G,French,Germany,6.8,,,,,False,9/20/2023,False
+movie_0099,Big Family,Movie,Horror,,2012,16,PG-13,French,USA,4.1,1200765.0,,,,True,5/28/2021,False
+movie_0100,Big World,Movie,Family,,1993,72,TV-14,English,USA,8.2,3099451.0,,,82.0,False,2/27/2025,False
+movie_0101,Night Saga,TV Series,Fantasy,,2014,29,TV-MA,English,South Korea,6.5,6015458.0,,,,False,10/1/2025,True
+movie_0102,Journey Shadow,Limited Series,Mystery,Horror,1991,121,PG-13,English,USA,8.7,19359848.0,,,,True,6/4/2025,True
+movie_0103,Journey Empire,Movie,Action,,1997,153,TV-G,English,USA,6.9,3042148.0,6900915.0,,129.0,False,1/31/2023,True
+movie_0104,Bright World,Movie,Romance,Action,2021,96,TV-14,French,South Korea,,,320768577.0,,,False,7/7/2021,False
+movie_0105,City Voyage,TV Series,Sport,Crime,2016,157,NC-17,German,Japan,7.1,,,,58.0,False,12/5/2023,True
+movie_0106,City Shadow,Movie,Fantasy,,2023,4,TV-14,English,USA,7.5,3280060.0,,,,False,5/4/2025,True
+movie_0107,Eternal Adventure,Documentary,Horror,Animation,2003,83,TV-Y7,Japanese,USA,,,188445385.0,,,False,3/15/2025,False
+movie_0108,Bright Empire,Stand-up Comedy,Crime,,1993,106,TV-PG,English,USA,3.7,,,,,False,2/1/2024,False
+movie_0109,Storm Family,Documentary,Horror,,2003,116,NC-17,English,South Korea,6.5,,,,,False,12/6/2024,False
+movie_0110,Family Saga,Limited Series,Sci-Fi,Western,2007,102,PG-13,German,Japan,4.5,,,,176.0,True,2/28/2021,False
+movie_0111,Fire War,TV Series,Mystery,,2007,118,PG-13,German,USA,8.3,42293216.0,,,,False,2/12/2024,True
+movie_0112,Dark Mission,Limited Series,Thriller,Documentary,2019,83,TV-G,German,USA,5.5,,,,82.0,True,7/17/2021,False
+movie_0113,Dark Legend,Movie,Mystery,Romance,2002,23,R,English,USA,9.4,,,,68.0,True,9/29/2024,False
+movie_0114,Eternal Kingdom,Movie,Adventure,Sci-Fi,2010,48,TV-14,Japanese,USA,2.4,,,4.0,199.0,True,3/25/2021,False
+movie_0115,Lost Princess,Documentary,Horror,Sport,1995,172,PG-13,English,USA,6.5,,,,,False,12/22/2023,False
+movie_0116,Journey Tale,Movie,Fantasy,,2011,159,R,Mandarin,Japan,8.9,,119616770.0,,,False,9/28/2025,False
+movie_0117,Dragon Crown,Limited Series,Romance,,2006,105,TV-G,Korean,USA,4.7,,,,,False,7/24/2021,True
+movie_0118,Journey Shadow,Documentary,Biography,,1997,123,NC-17,Hindi,USA,6.0,,,,,False,2/18/2023,True
+movie_0119,Silent Adventure,Stand-up Comedy,Crime,,2003,147,G,English,Japan,5.5,,2903511.0,2.0,,False,3/16/2021,True
+movie_0120,House Heart,Movie,Biography,,2004,104,PG-13,English,USA,5.0,3391130.0,,,,False,7/29/2024,False
+movie_0121,Our Kingdom,TV Series,Horror,Adventure,2003,169,PG-13,German,USA,6.7,469183.0,3892609.0,,,False,8/16/2025,False
+movie_0122,Fire Dream,Documentary,Western,Western,2024,165,TV-Y7,English,USA,,3340620.0,,2.0,,False,1/4/2021,False
+movie_0123,Golden Warrior,Movie,Sci-Fi,Thriller,2005,346,PG-13,Korean,USA,6.1,1765584.0,,6.0,,True,9/24/2023,True
+movie_0124,Bright Adventure,TV Series,Horror,,2003,49,TV-G,Japanese,USA,7.2,,,,,False,12/18/2024,False
+movie_0125,Eternal Legend,Documentary,Documentary,,1982,50,TV-G,Mandarin,UK,,,,,115.0,False,2/16/2021,False
+movie_0126,Our War,Stand-up Comedy,Romance,,1996,99,TV-Y7,English,USA,,22248908.0,,,,False,5/30/2023,True
+movie_0127,Warrior House,Documentary,Biography,Comedy,2003,253,TV-Y7,Hindi,South Korea,8.1,946525.0,,,,True,8/24/2021,True
+movie_0128,Silent Princess,Movie,Drama,,1998,178,NC-17,English,UK,7.6,6960336.0,5168222.0,,,False,8/13/2025,False
+movie_0129,Silent Family,TV Series,War,,2022,134,TV-PG,English,USA,4.4,,,4.0,101.0,False,7/19/2023,True
+movie_0130,Our Kingdom,TV Series,Documentary,Animation,2004,186,TV-14,Japanese,USA,3.9,,,,75.0,True,8/9/2023,False
+movie_0131,Eternal Princess,Movie,Crime,,2021,108,TV-MA,English,USA,4.5,,12253226.0,10.0,,False,12/25/2025,False
+movie_0132,House Story,TV Series,Sport,,2007,59,PG,Mandarin,USA,7.3,,13711328.0,3.0,,False,12/10/2024,False
+movie_0133,Secret Kingdom,Movie,Western,Mystery,2006,294,G,Hindi,Japan,6.8,,,5.0,,False,7/27/2022,False
+movie_0134,Family House,Movie,Horror,,2005,102,TV-MA,Mandarin,USA,7.7,,11261001.0,,,False,2/23/2024,False
+movie_0135,Golden Heart,TV Series,Adventure,Documentary,2006,163,R,Mandarin,South Korea,,,,,,False,6/26/2022,False
+movie_0136,House Legend,Movie,Comedy,Drama,2024,4,TV-MA,Korean,Japan,4.6,,114161897.0,,,False,8/8/2023,False
+movie_0137,Our World,TV Series,Biography,,1980,6,PG-13,English,UK,7.9,,,,121.0,False,1/22/2025,False
+movie_0138,Family War,Movie,Crime,Music,1983,85,NC-17,Spanish,UK,5.3,,,,6.0,True,9/27/2025,False
+movie_0139,Journey Voyage,Documentary,Fantasy,Biography,2000,34,PG,English,Japan,6.6,,,,,False,10/3/2025,False
+movie_0140,Storm Warrior,Movie,Crime,,2006,91,TV-Y,Spanish,Spain,3.5,9685601.0,,6.0,,False,6/24/2023,False
+movie_0141,House War,Limited Series,Action,Romance,2014,50,TV-G,English,India,5.2,3698782.0,244143649.0,,,True,6/22/2025,False
+movie_0142,Silent War,Movie,Biography,,2011,378,G,Korean,USA,8.1,20231085.0,,,,True,6/17/2025,False
+movie_0143,Family Story,TV Series,Fantasy,,2002,154,TV-MA,English,USA,5.0,,,6.0,73.0,True,9/25/2023,False
+movie_0144,Our Kingdom,Movie,Sci-Fi,War,2018,198,TV-PG,English,USA,7.7,,,,,False,3/7/2021,False
+movie_0145,Adventure War,Movie,History,,2018,8,TV-PG,English,USA,2.1,2801609.0,,7.0,78.0,False,8/6/2021,False
+movie_0146,Eternal Empire,TV Series,Family,,2008,133,TV-Y,English,Japan,5.3,,20155919.0,11.0,,False,4/14/2024,False
+movie_0147,Royal House,Limited Series,Mystery,,2017,65,TV-G,English,USA,6.0,,,,143.0,True,2/24/2025,False
+movie_0148,Adventure Ice,Limited Series,Fantasy,Biography,2009,200,PG-13,English,Japan,9.4,,,,,False,7/22/2025,False
+movie_0149,Hidden Adventure,Movie,Animation,Fantasy,2000,120,TV-Y,English,UK,4.2,736296.0,4482778.0,,,True,3/20/2022,False
+movie_0150,House Legend,Movie,Biography,Drama,2014,73,R,Japanese,USA,7.5,22197278.0,,2.0,,False,6/30/2025,False
+movie_0151,Night Tale,Documentary,War,,2007,25,TV-PG,English,Japan,8.2,,14645890.0,,6.0,True,2/17/2025,False
+movie_0152,Dragon Saga,TV Series,Biography,,2006,84,PG-13,Spanish,USA,5.0,,,,75.0,False,6/5/2023,False
+movie_0153,Adventure Princess,Movie,Fantasy,,2023,169,TV-G,English,South Korea,5.6,,,,,False,11/14/2022,True
+movie_0154,House Kingdom,Documentary,Family,Biography,1978,208,R,Japanese,France,6.5,,,,115.0,False,5/12/2023,False
+movie_0155,House Family,TV Series,Horror,,1990,56,G,English,USA,3.6,,8636831.0,,136.0,True,5/17/2024,False
+movie_0156,Silent Dream,Documentary,Family,,1992,339,R,Japanese,France,5.4,7275984.0,3880329.0,,,True,1/19/2025,True
+movie_0157,Fire Legend,Movie,War,Mystery,2002,161,TV-Y,Japanese,USA,8.6,,,,172.0,False,11/10/2021,False
+movie_0158,City Dream,TV Series,Sport,,2003,35,PG-13,Korean,UK,7.2,,74126774.0,6.0,69.0,False,9/4/2022,False
+movie_0159,Bright Shadow,Movie,Romance,,1989,28,TV-G,English,Japan,6.0,33212222.0,,5.0,,False,8/8/2021,True
+movie_0160,Royal Crown,Documentary,Mystery,Adventure,1995,69,TV-PG,Japanese,USA,6.5,,,,,False,9/7/2025,False
+movie_0161,Big Family,Movie,Biography,,1996,56,TV-Y,English,UK,7.3,2588974.0,,,,False,1/13/2023,False
+movie_0162,Golden Story,Documentary,Adventure,,2024,108,NC-17,English,Germany,7.7,,,,,False,4/3/2022,False
+movie_0163,Secret Empire,Documentary,Horror,,2024,78,PG,English,South Korea,5.3,3193771.0,8404245.0,,,False,1/7/2022,True
+movie_0164,City Legend,Documentary,Western,,2001,60,NC-17,Korean,Japan,,,12137846.0,,,False,5/16/2021,False
+movie_0165,Our Kingdom,Movie,Mystery,,2002,17,G,English,UK,8.7,,,,,False,5/11/2023,False
+movie_0166,Lost Night,Movie,War,,1993,122,TV-Y7,German,USA,7.5,3069646.0,,,63.0,False,11/9/2024,False
+movie_0167,House Tale,TV Series,Drama,,1984,15,TV-PG,English,South Korea,4.7,1363528.0,,14.0,,False,8/13/2022,True
+movie_0168,Journey Voyage,TV Series,Comedy,,2005,161,TV-14,English,South Korea,4.4,8434535.0,,,,True,1/9/2023,True
+movie_0169,Secret Legend,Limited Series,Western,,1995,9,TV-Y7,English,USA,5.7,3208242.0,,4.0,,True,3/7/2024,False
+movie_0170,Warrior Story,Movie,Action,,2005,14,NC-17,English,USA,6.4,,,,,True,10/12/2022,False
+movie_0171,Golden Legend,Limited Series,Fantasy,Sport,1988,34,NC-17,Japanese,USA,3.1,,,,,False,9/10/2024,True
+movie_0172,Golden Ice,Movie,Family,Sport,1997,52,G,Spanish,USA,7.2,5695047.0,,,,False,8/9/2022,False
+movie_0173,Wild Empire,Movie,History,Action,2008,43,G,German,USA,8.6,,,,,True,3/26/2023,False
+movie_0174,Secret Story,Movie,Documentary,,2010,52,PG,English,USA,7.3,,,,,True,11/25/2025,False
+movie_0175,Our Princess,Documentary,Mystery,,2011,93,PG,English,France,5.0,4527378.0,,6.0,,False,3/7/2025,False
+movie_0176,Adventure Legend,Movie,Music,,1991,35,TV-Y,Spanish,USA,4.8,3795490.0,,10.0,,True,11/10/2023,False
+movie_0177,House Adventure,Movie,Sci-Fi,,2016,93,TV-MA,English,USA,6.8,,2759197.0,,,True,12/17/2022,False
+movie_0178,Secret World,Documentary,Mystery,,1997,4,PG-13,English,France,6.0,,,,,True,12/16/2025,False
+movie_0179,Our Saga,TV Series,Adventure,,2013,34,PG-13,Spanish,USA,7.1,,,,118.0,False,4/25/2023,False
+movie_0180,Fire Crown,Movie,Fantasy,History,2006,13,G,English,USA,,,,,26.0,False,9/20/2022,True
+movie_0181,Hidden Saga,Movie,Drama,,1990,160,R,English,South Korea,8.2,,11468985.0,,,True,12/24/2023,False
+movie_0182,Warrior Saga,TV Series,Western,Crime,2002,40,G,English,India,4.2,,,,69.0,True,1/26/2023,False
+movie_0183,Fire Ice,Movie,Drama,Comedy,2010,117,TV-14,Korean,Japan,6.7,,,12.0,109.0,True,6/12/2025,False
+movie_0184,Journey Legend,Movie,Romance,,2013,11,TV-14,English,USA,5.6,,,,120.0,False,1/22/2022,False
+movie_0185,Dragon Crown,TV Series,Sport,,2004,206,PG,Korean,USA,6.1,3105686.0,,,,False,4/2/2021,False
+movie_0186,Big Dream,Movie,Action,,2023,81,R,English,India,7.8,,,1.0,,False,2/25/2023,False
+movie_0187,Family Night,TV Series,History,,2017,74,TV-G,English,UK,8.0,,,,,False,9/27/2025,False
+movie_0188,Wild Family,Movie,Music,,2003,17,TV-PG,English,UK,8.8,,,,,False,4/24/2021,False
+movie_0189,Bright Crown,Movie,Western,War,2015,30,PG,German,UK,,,,,,True,1/14/2025,False
+movie_0190,Night Empire,Movie,Drama,,2024,62,PG-13,English,USA,6.1,,,9.0,,False,1/2/2021,True
+movie_0191,Dragon Story,Movie,Sport,,2024,31,TV-14,French,USA,5.8,,,6.0,,False,10/15/2023,True
+movie_0192,Royal Empire,Movie,Sport,Documentary,1992,149,PG,English,South Korea,3.1,,16556230.0,,,True,4/7/2023,False
+movie_0193,Dragon Family,Movie,Comedy,Sport,1995,79,TV-Y,English,Germany,8.7,,,,,False,10/19/2021,True
+movie_0194,Storm Tale,Limited Series,Biography,Family,2023,32,TV-PG,English,USA,,,,,,True,9/23/2024,False
+movie_0195,Wild Princess,Limited Series,Animation,,1994,133,NC-17,Japanese,France,7.2,,,13.0,72.0,False,11/16/2021,False
+movie_0196,Bright Princess,Movie,Biography,,1991,55,G,English,USA,,1780278.0,,,65.0,True,3/9/2023,False
+movie_0197,Night Heart,TV Series,Horror,Horror,2000,129,R,German,Spain,4.0,53864063.0,21746426.0,,,False,10/16/2023,False
+movie_0198,Dark Saga,TV Series,Horror,,2011,48,TV-G,Hindi,USA,4.6,,,13.0,,True,8/4/2023,False
+movie_0199,Dragon Mission,Limited Series,Crime,,2005,111,TV-PG,German,UK,9.1,,54041226.0,7.0,,False,2/27/2021,False
+movie_0200,House Legend,Movie,Crime,,1999,54,NC-17,Japanese,USA,6.8,,,2.0,34.0,False,3/25/2023,True
+movie_0201,Secret Voyage,Movie,Thriller,Drama,1998,149,NC-17,Japanese,France,,,,5.0,,False,4/9/2024,True
+movie_0202,Big World,Movie,Sci-Fi,Western,1998,11,R,Korean,France,6.0,,,12.0,,False,8/20/2023,False
+movie_0203,Journey Ice,Movie,Sport,,1996,23,TV-PG,English,USA,8.2,,,8.0,,True,8/25/2024,False
+movie_0204,Family Princess,Movie,Western,Mystery,2024,66,PG-13,German,South Korea,8.0,1273317.0,,8.0,,False,11/16/2024,False
+movie_0205,Royal Legend,Limited Series,Sci-Fi,,2009,41,TV-MA,Spanish,Germany,3.6,,14019161.0,,,True,11/24/2021,False
+movie_0206,Our Empire,Limited Series,Sci-Fi,,2016,52,R,English,Germany,9.2,,,,,False,1/6/2025,False
+movie_0207,House Family,Movie,Western,,2000,120,R,Hindi,USA,8.0,,,,,True,6/22/2025,True
+movie_0208,Dragon Dream,TV Series,Biography,,2004,51,TV-14,Spanish,UK,6.0,,,,,False,3/10/2025,False
+movie_0209,Secret Family,Movie,Family,,1998,96,TV-PG,English,Japan,4.1,,469487980.0,13.0,,False,4/3/2025,False
+movie_0210,House Ice,TV Series,Fantasy,Romance,1976,34,NC-17,Hindi,France,8.2,,163733310.0,,,False,1/23/2022,False
+movie_0211,Royal Shadow,TV Series,Music,,1990,8,TV-14,English,Japan,7.1,,,,83.0,False,4/4/2024,False
+movie_0212,Bright Kingdom,Movie,Thriller,,1985,129,TV-14,English,France,3.6,,,,,True,4/16/2023,False
+movie_0213,Family Mission,Limited Series,Horror,,1980,238,PG,English,USA,5.8,,,2.0,,False,12/1/2025,False
+movie_0214,Wild Voyage,Stand-up Comedy,Sci-Fi,,1992,88,NC-17,Japanese,USA,,10068116.0,,2.0,138.0,True,2/25/2025,False
+movie_0215,Dragon Shadow,Documentary,Comedy,Horror,2021,69,TV-Y7,English,USA,6.3,1759813.0,11775273.0,,,True,10/22/2021,True
+movie_0216,Storm Crown,Documentary,Fantasy,Adventure,2005,81,NC-17,Hindi,USA,4.9,4091381.0,,2.0,71.0,False,9/15/2025,True
+movie_0217,Hidden Family,TV Series,Biography,Drama,2021,187,TV-14,English,USA,4.4,,,11.0,142.0,False,6/26/2024,True
+movie_0218,Family Family,Movie,Comedy,,2011,89,TV-Y,English,USA,9.5,1465291.0,3553006.0,12.0,,False,9/18/2023,True
+movie_0219,Lost Story,Movie,Thriller,,2015,133,TV-PG,Korean,South Korea,7.8,,28675549.0,,165.0,False,3/26/2023,False
+movie_0220,Storm Night,TV Series,Thriller,,1996,129,TV-MA,English,Japan,8.8,,3184509.0,,,True,6/19/2023,False
+movie_0221,Secret Legend,Movie,Mystery,,2012,158,PG,French,USA,6.7,,200591242.0,8.0,,True,11/7/2024,True
+movie_0222,Fire War,Limited Series,History,,2014,68,G,English,South Korea,8.5,,,,,False,10/27/2024,True
+movie_0223,Adventure Dream,TV Series,Horror,Family,1999,47,TV-Y7,Mandarin,Germany,4.7,,,,,True,10/5/2023,True
+movie_0224,House World,Movie,Family,Mystery,2012,112,TV-MA,French,Germany,6.6,605738.0,,9.0,47.0,False,12/15/2025,False
+movie_0225,Adventure Legend,Movie,Sci-Fi,,2012,150,TV-G,English,South Korea,6.8,,,,,False,2/28/2022,True
+movie_0226,Secret Story,Stand-up Comedy,Sport,,2000,170,TV-G,English,India,8.8,,,4.0,68.0,True,2/17/2023,True
+movie_0227,Journey Legend,Movie,Mystery,Drama,1993,203,PG,English,France,6.8,,,,,False,12/29/2023,False
+movie_0228,Golden Kingdom,Movie,Adventure,Horror,1993,141,PG-13,Mandarin,India,5.1,,,,,False,10/29/2021,False
+movie_0229,Our Heart,Movie,Western,,2007,45,TV-Y7,French,Spain,6.4,5094401.0,,,90.0,False,6/30/2023,False
+movie_0230,Hidden Family,Documentary,Music,Mystery,2010,88,G,English,USA,3.2,,,,,False,3/3/2025,True
+movie_0231,Dark Princess,Stand-up Comedy,Drama,Drama,1997,82,TV-14,English,Germany,2.1,20265666.0,,,,False,5/17/2024,False
+movie_0232,Bright Adventure,Movie,History,,2006,76,TV-PG,Spanish,South Korea,7.8,,,,,False,7/20/2024,True
+movie_0233,Dragon World,Limited Series,Action,,2013,112,PG,English,South Korea,5.6,4708235.0,,,139.0,False,10/23/2021,False
+movie_0234,Our Heart,Movie,Mystery,,2013,63,TV-G,French,Germany,5.8,,,,,False,9/22/2021,False
+movie_0235,Our Story,Documentary,War,Documentary,2024,63,PG-13,German,USA,7.8,2022445.0,,,42.0,False,3/18/2023,False
+movie_0236,Bright Voyage,Movie,Mystery,,2021,247,TV-14,English,USA,8.8,1142719.0,24483024.0,11.0,,False,8/14/2022,False
+movie_0237,Family War,TV Series,Romance,Comedy,1995,71,TV-Y7,Japanese,France,7.2,1963769.0,,8.0,,False,1/19/2021,False
+movie_0238,Golden Voyage,Documentary,Romance,Action,2024,157,PG-13,English,UK,,,,11.0,,False,10/7/2023,True
+movie_0239,Hidden Legend,TV Series,Horror,Sport,2000,163,R,English,Germany,7.2,40308243.0,,,,True,10/8/2024,False
+movie_0240,Silent Family,Movie,Romance,Biography,2018,90,G,Mandarin,Germany,6.8,,,,,False,8/27/2024,False
+movie_0241,House Tale,Limited Series,Adventure,,2007,65,PG,French,UK,6.7,1690178.0,26178972.0,,,False,7/8/2021,False
+movie_0242,City Voyage,Stand-up Comedy,Biography,Western,2001,35,TV-Y7,Spanish,Spain,3.9,,,13.0,,False,11/25/2024,True
+movie_0243,Journey Empire,TV Series,Comedy,Drama,1985,15,TV-PG,Japanese,USA,8.0,12484796.0,,7.0,,False,11/26/2022,False
+movie_0244,Big Ice,Documentary,Drama,Crime,2004,118,TV-PG,English,Spain,,,,7.0,,False,10/12/2021,False
+movie_0245,Bright Heart,Documentary,Animation,Comedy,1988,101,PG-13,French,USA,5.2,2457172.0,,,,False,5/12/2023,False
+movie_0246,Royal Saga,Movie,Biography,,2017,131,TV-PG,Japanese,Japan,6.3,611834.0,32015377.0,,6.0,False,1/31/2022,False
+movie_0247,Bright Heart,Limited Series,Horror,,2023,50,PG-13,English,USA,4.8,1291618.0,16332003.0,,,False,5/12/2024,False
+movie_0248,House Adventure,Movie,Sci-Fi,,1997,264,TV-PG,English,Japan,5.5,22325584.0,,,,False,9/20/2024,False
+movie_0249,Fire Night,Documentary,War,War,2009,108,G,Korean,USA,9.6,,7425155.0,,,False,8/17/2024,False
+movie_0250,Royal Adventure,Movie,Adventure,,1998,69,TV-G,French,USA,8.3,4262905.0,,9.0,,False,7/31/2021,True
+movie_0251,Fire Dream,Movie,Crime,,1999,7,G,English,France,5.0,,,1.0,168.0,False,9/29/2022,True
+movie_0252,Secret Saga,TV Series,Action,Animation,2015,55,TV-Y,Spanish,UK,,,,,54.0,False,6/29/2023,False
+movie_0253,House Adventure,TV Series,Action,Sport,2006,135,PG-13,English,USA,4.0,3851836.0,,11.0,,True,12/3/2025,False
+movie_0254,Adventure Empire,Limited Series,Sport,,2024,199,TV-Y,English,UK,7.5,,61961991.0,,,True,9/24/2023,False
+movie_0255,City Empire,Stand-up Comedy,Adventure,,2001,78,NC-17,English,USA,5.8,2230984.0,,,,False,4/7/2024,False
+movie_0256,Secret Crown,Movie,Crime,,2017,221,R,German,USA,2.7,3003824.0,,,,False,9/12/2022,False
+movie_0257,Hidden Voyage,Movie,Animation,,2007,33,G,English,USA,6.5,903178.0,1609127.0,,122.0,False,6/24/2022,False
+movie_0258,Secret Family,Movie,Adventure,,2015,104,NC-17,English,France,7.1,899517.0,,,,True,12/24/2024,True
+movie_0259,Wild Warrior,TV Series,Thriller,Drama,2001,106,PG-13,English,South Korea,8.0,713074.0,,,,True,3/3/2025,False
+movie_0260,Journey Heart,TV Series,Thriller,,2005,119,TV-Y7,French,France,,,5677287.0,,,False,9/11/2023,False
+movie_0261,Big Princess,Limited Series,Fantasy,Adventure,2005,86,PG-13,German,South Korea,5.6,,63938222.0,,95.0,False,11/19/2024,True
+movie_0262,Warrior Tale,Documentary,Sci-Fi,,1996,99,TV-14,English,France,9.9,,,10.0,,False,10/16/2021,False
+movie_0263,Big Legend,Movie,Animation,Sci-Fi,2014,32,R,Hindi,South Korea,6.3,1923433.0,,,,False,3/25/2024,True
+movie_0264,Royal Princess,TV Series,Western,,2013,186,R,English,India,,,,,,False,5/15/2023,True
+movie_0265,Royal Story,TV Series,Documentary,,2013,146,NC-17,English,USA,5.3,,,11.0,,False,7/15/2023,False
+movie_0266,Golden Princess,TV Series,Horror,,2024,97,TV-14,Japanese,USA,7.5,833854.0,,10.0,56.0,True,12/20/2023,False
+movie_0267,Our Legend,Movie,Action,Music,2023,149,TV-G,French,USA,3.6,,11696857.0,,,False,5/12/2025,True
+movie_0268,Lost Princess,Movie,Fantasy,,2002,190,TV-Y7,English,France,,16221785.0,,,58.0,False,6/8/2021,False
+movie_0269,Journey Family,Movie,Biography,Sci-Fi,2010,117,TV-Y7,Japanese,Japan,4.1,,,,,False,1/5/2022,True
+movie_0270,Adventure Legend,Movie,Romance,,1999,283,NC-17,English,USA,5.2,,,,60.0,False,9/22/2022,False
+movie_0271,Dark Warrior,Documentary,Sport,,2006,125,G,Japanese,Germany,8.5,,,,115.0,False,1/1/2025,False
+movie_0272,Warrior Princess,Movie,Thriller,Comedy,1999,37,TV-PG,Korean,Spain,5.2,,,,,True,12/17/2023,False
+movie_0273,Hidden Warrior,TV Series,Crime,Sci-Fi,2024,93,TV-14,Mandarin,USA,7.6,,594780.0,14.0,199.0,True,12/9/2021,False
+movie_0274,Family Heart,TV Series,Crime,Romance,2010,153,TV-Y7,English,USA,,2809781.0,,,,False,2/13/2021,False
+movie_0275,Adventure Dream,Limited Series,Horror,Family,2004,190,G,Korean,USA,6.2,,5993481.0,,199.0,False,12/13/2025,False
+movie_0276,Eternal Night,Movie,History,Animation,2020,88,TV-14,Japanese,USA,8.1,2233590.0,,,,False,9/9/2021,True
+movie_0277,Hidden Legend,Movie,Romance,Romance,1981,34,PG-13,English,Germany,7.2,8068828.0,29240588.0,,,True,3/1/2021,True
+movie_0278,Secret Ice,Movie,Drama,,1983,64,TV-Y,English,France,6.5,3240054.0,,,81.0,False,1/12/2023,False
+movie_0279,Bright Saga,TV Series,Action,War,2015,21,NC-17,Mandarin,USA,7.6,,50048938.0,,,True,10/7/2023,False
+movie_0280,Eternal Tale,Movie,Music,Western,2007,134,TV-Y,English,Japan,9.6,,,,76.0,False,4/18/2022,True
+movie_0281,Adventure Legend,Documentary,History,,2009,54,TV-14,German,USA,5.1,,9246258.0,10.0,,True,11/3/2021,False
+movie_0282,Journey Princess,Movie,Action,Sci-Fi,1991,42,TV-PG,English,USA,4.5,,,,66.0,False,6/7/2021,False
+movie_0283,Wild Empire,Movie,Drama,Thriller,2006,143,PG,German,USA,4.4,1277254.0,,6.0,,False,1/15/2023,False
+movie_0284,City Empire,Movie,Adventure,Mystery,2024,218,PG,English,France,,,,,124.0,True,10/4/2025,False
+movie_0285,Silent Kingdom,Documentary,Music,Fantasy,2015,42,TV-G,Mandarin,Japan,8.3,4185159.0,,2.0,45.0,False,9/28/2021,False
+movie_0286,Royal Adventure,Limited Series,Adventure,,2008,88,TV-MA,French,Germany,5.3,,,,15.0,False,11/12/2023,False
+movie_0287,House Warrior,Documentary,Music,,2001,66,TV-MA,English,USA,,1919631.0,,,,True,12/20/2021,False
+movie_0288,Dragon Night,TV Series,History,,2002,196,TV-MA,French,South Korea,5.0,,,3.0,,True,5/14/2024,True
+movie_0289,Royal Ice,Documentary,Fantasy,,1982,73,TV-Y,Korean,USA,7.3,,1930556.0,,,False,4/22/2021,False
+movie_0290,Wild Family,Documentary,Fantasy,Comedy,2009,31,TV-Y7,English,USA,6.1,,,,,False,1/6/2022,False
+movie_0291,Fire Tale,Movie,Drama,,2016,75,TV-MA,English,Germany,6.6,5561799.0,,14.0,135.0,False,1/15/2021,False
+movie_0292,Fire Warrior,TV Series,Drama,,1988,169,TV-G,French,UK,5.3,6308693.0,,,,False,3/29/2024,False
+movie_0293,Night Story,Documentary,Family,,1998,63,TV-MA,French,USA,8.1,,,,,False,8/5/2024,False
+movie_0294,Dark Family,Movie,Family,,1993,46,TV-Y7,English,Japan,,5273422.0,,,,False,11/10/2021,False
+movie_0295,Hidden Tale,Documentary,Action,Family,1995,70,PG-13,Spanish,UK,7.3,589929.0,,,,False,4/8/2023,True
+movie_0296,Eternal Saga,TV Series,War,,2007,32,TV-G,English,Spain,6.6,,,1.0,,False,6/20/2022,False
+movie_0297,City World,TV Series,Family,Horror,1982,66,PG,English,France,7.2,,,13.0,151.0,True,3/25/2021,False
+movie_0298,Big Voyage,Movie,Music,,2013,49,R,Japanese,USA,7.1,,2560976.0,,,True,3/10/2021,False
+movie_0299,Lost Voyage,Documentary,Horror,Horror,2015,318,TV-PG,English,Japan,4.6,,,,168.0,False,9/10/2025,False
+movie_0300,Golden Dream,Limited Series,Western,,2003,10,TV-Y7,English,USA,,2409025.0,,2.0,,False,3/27/2024,False
+movie_0301,Golden Voyage,Movie,War,,1978,36,TV-Y,Japanese,USA,7.7,,5839621.0,,74.0,False,4/29/2024,False
+movie_0302,Bright Family,Movie,Family,,1995,46,TV-PG,English,France,8.4,2204574.0,,,,True,6/24/2022,False
+movie_0303,Hidden Ice,Movie,Action,Drama,2020,32,TV-Y7,English,South Korea,7.0,,,9.0,,False,4/28/2022,False
+movie_0304,Big Ice,Movie,War,,1974,104,R,French,USA,4.5,,,,,False,12/21/2024,False
+movie_0305,Secret Tale,Stand-up Comedy,Drama,,2002,41,NC-17,Japanese,South Korea,4.8,12151950.0,,,,False,3/12/2023,False
+movie_0306,Hidden War,TV Series,Adventure,,1993,19,NC-17,Spanish,UK,5.5,9773702.0,,13.0,,True,7/6/2021,False
+movie_0307,Eternal Night,Movie,Drama,,2015,82,NC-17,Japanese,UK,6.6,,,13.0,,False,6/12/2023,True
+movie_0308,Dark Dream,Movie,Mystery,,1998,60,G,English,USA,6.0,,,13.0,,False,8/10/2023,True
+movie_0309,City Empire,Stand-up Comedy,Western,Drama,2011,43,TV-PG,English,USA,,,,,,True,11/7/2023,False
+movie_0310,Storm Princess,Movie,Biography,,2012,193,TV-14,German,USA,4.2,,3131431.0,2.0,150.0,False,9/7/2023,False
+movie_0311,Family War,Documentary,Romance,,2024,107,TV-G,English,USA,2.5,,,,,True,4/14/2025,False
+movie_0312,Our Adventure,Movie,Mystery,,2004,98,R,English,USA,0.6,17435305.0,,,,False,3/22/2022,True
+movie_0313,Golden Empire,Movie,Adventure,,2010,109,TV-14,Spanish,USA,6.0,,9098703.0,1.0,,True,12/13/2023,False
+movie_0314,Big Night,Documentary,Crime,,1989,105,TV-14,French,USA,10.0,,,,184.0,False,6/9/2025,False
+movie_0315,Adventure Night,Movie,Horror,,2020,63,PG,Korean,USA,,2320924.0,,,,True,11/22/2025,True
+movie_0316,Bright House,Documentary,Comedy,,1997,42,TV-14,English,Germany,4.5,2539042.0,,12.0,,False,10/28/2025,False
+movie_0317,Family Night,Movie,Animation,,2000,84,TV-PG,English,South Korea,6.5,,,,,True,8/19/2024,False
+movie_0318,Warrior Shadow,Documentary,Western,,2006,62,TV-G,English,USA,3.6,,,,,False,7/14/2021,False
+movie_0319,City Legend,Documentary,History,,1988,10,TV-Y,French,Spain,3.9,,,,150.0,True,12/10/2025,False
+movie_0320,Eternal Story,Documentary,Sci-Fi,Biography,2009,30,TV-Y,English,USA,4.1,,,1.0,,False,2/28/2021,False
+movie_0321,Silent Story,Movie,Drama,,2017,56,TV-14,English,USA,5.9,,,,,False,10/3/2023,False
+movie_0322,Hidden War,Documentary,Family,,2009,145,NC-17,English,South Korea,5.9,,,,,False,3/27/2023,True
+movie_0323,Bright House,Stand-up Comedy,Fantasy,,1988,84,TV-G,Japanese,USA,6.7,928448.0,,,,True,5/23/2024,False
+movie_0324,Journey Ice,Movie,Thriller,Comedy,2005,35,PG,French,USA,7.5,851028.0,11141491.0,,151.0,False,11/29/2024,False
+movie_0325,Secret Tale,Movie,Comedy,,2014,27,TV-PG,English,USA,5.7,,,2.0,,False,9/8/2024,False
+movie_0326,Journey Dream,Limited Series,Action,Crime,1985,167,TV-PG,English,Japan,,,,,136.0,False,2/18/2022,False
+movie_0327,Warrior Voyage,Movie,Adventure,,1994,65,TV-Y7,English,France,4.3,,,13.0,,False,10/9/2024,False
+movie_0328,Lost Ice,Documentary,Western,,2016,1,G,English,USA,3.8,,,10.0,,False,10/14/2024,True
+movie_0329,Bright Heart,Documentary,Thriller,,2009,69,PG,Japanese,USA,3.6,,,2.0,67.0,False,2/14/2021,False
+movie_0330,Storm Legend,Movie,Western,Documentary,2011,124,TV-PG,English,USA,7.4,,,,,False,3/9/2024,False
+movie_0331,Our Crown,TV Series,Drama,,2024,26,TV-MA,Korean,Japan,5.7,,15970676.0,,,True,8/21/2021,False
+movie_0332,Dragon Mission,TV Series,Crime,Thriller,2011,79,TV-MA,German,USA,2.9,2216027.0,,6.0,,True,10/23/2023,False
+movie_0333,Golden Shadow,Movie,Horror,,2013,85,TV-G,Mandarin,Germany,6.2,,,,146.0,False,2/20/2022,False
+movie_0334,Adventure Tale,Limited Series,Music,,2024,28,PG,Hindi,UK,4.0,,65946636.0,,,False,10/17/2022,False
+movie_0335,Royal Family,Movie,History,Music,2004,178,G,English,USA,9.3,,,,,False,5/11/2022,True
+movie_0336,Royal Heart,Movie,Horror,,1997,86,TV-Y,English,UK,5.2,2914427.0,,,,True,4/23/2025,False
+movie_0337,Golden Family,Limited Series,Sci-Fi,,2011,55,TV-MA,English,USA,7.5,,,,,False,7/11/2025,False
+movie_0338,Golden Shadow,Movie,Western,,2011,66,TV-14,French,USA,,2255830.0,,,,False,12/27/2024,False
+movie_0339,Lost Warrior,Limited Series,Mystery,,2000,23,PG-13,English,USA,4.5,,16896575.0,,,False,8/11/2024,False
+movie_0340,Adventure Story,Movie,Adventure,History,1994,22,TV-PG,English,Japan,6.4,5967553.0,,,141.0,False,10/26/2022,False
+movie_0341,Dark Princess,TV Series,Crime,Western,2024,51,NC-17,English,UK,7.3,,,13.0,111.0,True,9/19/2021,False
+movie_0342,Secret World,Movie,Animation,,2010,54,G,English,India,6.5,,,,,False,11/4/2023,False
+movie_0343,Our Voyage,Documentary,Biography,Biography,1998,62,TV-Y7,French,USA,6.9,2076725.0,,,,True,2/18/2023,False
+movie_0344,Night Heart,Documentary,Mystery,Action,2016,188,TV-14,Korean,USA,3.9,,,,,False,5/31/2022,False
+movie_0345,Family Voyage,Limited Series,Comedy,Western,2005,119,R,Japanese,France,7.3,1285104.0,6954632.0,9.0,180.0,False,3/20/2022,False
+movie_0346,Secret Voyage,Stand-up Comedy,Drama,,2003,12,TV-G,Hindi,USA,5.4,,,,123.0,True,10/21/2021,True
+movie_0347,Royal Story,Documentary,Drama,,2012,165,PG,English,USA,,,,,,False,2/23/2025,False
+movie_0348,Storm Empire,Documentary,Sport,,1991,51,PG-13,English,India,7.9,,,,61.0,False,8/10/2022,True
+movie_0349,Dark Kingdom,TV Series,Animation,Horror,2010,128,PG,English,South Korea,7.5,,,9.0,,False,8/2/2025,True
+movie_0350,Storm Family,Limited Series,Crime,,2024,54,TV-Y,Korean,Spain,6.9,5245983.0,4081342.0,,,False,5/7/2024,False
+movie_0351,Adventure Heart,Documentary,Documentary,,2011,82,TV-14,Japanese,USA,7.4,,,6.0,81.0,False,10/27/2021,True
+movie_0352,Our Princess,Limited Series,Thriller,Thriller,2002,25,TV-PG,English,USA,7.5,,,,,False,4/25/2021,False
+movie_0353,Fire Kingdom,Movie,Music,,2000,96,TV-PG,Mandarin,USA,9.0,,,1.0,,False,1/31/2023,False
+movie_0354,Dragon Kingdom,TV Series,Family,,2001,138,R,English,Spain,6.2,20711718.0,,,,False,5/29/2021,False
+movie_0355,Journey War,Documentary,War,Horror,2003,15,TV-Y,English,USA,6.6,,,,55.0,True,10/5/2025,False
+movie_0356,Silent Ice,Movie,Animation,Sport,2002,139,TV-MA,Korean,USA,8.0,,4386111.0,,,True,7/14/2025,False
+movie_0357,Bright Crown,Movie,Thriller,,2016,41,NC-17,Hindi,USA,,,15009339.0,,,True,4/14/2024,False
+movie_0358,Royal Voyage,Stand-up Comedy,Thriller,Documentary,1986,230,R,Korean,UK,3.9,,,,,False,6/19/2022,False
+movie_0359,Adventure War,TV Series,Drama,History,2016,129,G,Mandarin,South Korea,7.2,7970892.0,,,160.0,False,5/4/2025,False
+movie_0360,City Heart,Movie,War,,2002,114,NC-17,English,UK,,2002523.0,,,50.0,True,3/26/2024,False
+movie_0361,Our Story,Movie,Mystery,,2010,66,TV-14,Korean,USA,4.1,,,,,False,10/15/2022,False
+movie_0362,Hidden Family,Movie,Thriller,,1993,356,G,German,UK,7.2,,,,,False,5/25/2025,False
+movie_0363,Eternal Family,Documentary,Action,,2021,51,TV-MA,Japanese,USA,8.9,4005415.0,,,,True,1/18/2022,False
+movie_0364,Dark Warrior,Stand-up Comedy,Comedy,,2020,30,TV-Y,English,USA,3.3,2264172.0,,,,False,11/3/2023,True
+movie_0365,Journey Dream,Stand-up Comedy,War,Mystery,2017,43,TV-Y,Mandarin,USA,8.1,,4349310.0,,,False,6/15/2024,False
+movie_0366,Bright Adventure,Documentary,Biography,Adventure,1989,156,R,English,Japan,1.7,,,,,True,7/15/2025,False
+movie_0367,Royal Voyage,Documentary,War,,2015,81,TV-Y7,English,USA,5.5,,,10.0,110.0,False,9/8/2021,False
+movie_0368,Warrior Dream,Movie,Action,,2011,72,TV-PG,Spanish,India,9.6,,19346688.0,,123.0,True,6/9/2022,False
+movie_0369,Bright House,Limited Series,Drama,,1988,52,G,Hindi,Japan,5.7,792912.0,8505412.0,,124.0,False,3/13/2025,False
+movie_0370,Bright Saga,Movie,Action,,2006,69,G,Mandarin,USA,6.4,,,,,False,7/1/2023,False
+movie_0371,Eternal Crown,Movie,Fantasy,,2010,49,TV-MA,Spanish,UK,7.7,,,,118.0,False,10/9/2024,False
+movie_0372,Golden Empire,Stand-up Comedy,Crime,Mystery,2012,121,NC-17,English,France,3.2,4693844.0,123105048.0,,,False,11/12/2024,False
+movie_0373,Eternal Night,Limited Series,Horror,,2008,61,PG-13,Hindi,USA,6.4,,25091416.0,,,True,7/11/2022,False
+movie_0374,Adventure Legend,Movie,Comedy,Drama,2009,43,NC-17,English,France,6.4,,,,,False,8/28/2022,False
+movie_0375,House Princess,Documentary,Romance,Horror,2023,147,PG,Korean,USA,9.6,,,6.0,,False,6/30/2023,False
+movie_0376,Secret Princess,TV Series,Western,,2020,31,NC-17,English,USA,4.0,,,,6.0,False,2/20/2021,False
+movie_0377,Storm Story,Movie,Action,,1973,81,G,German,UK,5.6,,,6.0,,False,12/29/2024,False
+movie_0378,Lost Adventure,Movie,Fantasy,,2002,10,TV-MA,Japanese,Japan,4.6,,,,,False,7/30/2021,False
+movie_0379,Bright Night,Movie,History,,2004,20,PG-13,Spanish,USA,4.4,6633436.0,76958208.0,,,True,9/3/2025,False
+movie_0380,Fire Crown,TV Series,Action,Family,1986,56,R,English,USA,8.3,5978195.0,,,,False,11/22/2024,False
+movie_0381,Our Kingdom,TV Series,Family,,2007,48,TV-Y,English,Japan,6.3,13807608.0,4402395.0,11.0,,False,10/5/2022,True
+movie_0382,Royal Story,TV Series,Animation,Horror,2020,48,NC-17,English,USA,,,,13.0,,False,5/12/2021,False
+movie_0383,Big Voyage,Movie,Biography,,1994,130,PG,English,Spain,5.3,,,13.0,115.0,False,12/12/2024,False
+movie_0384,Golden War,Stand-up Comedy,Comedy,,2010,135,R,French,Japan,5.3,,,,,False,3/30/2023,False
+movie_0385,Our Night,Documentary,Adventure,Family,1996,94,PG,English,Germany,5.4,3798990.0,,,,False,12/21/2021,False
+movie_0386,Silent World,Limited Series,War,,1998,30,NC-17,Japanese,USA,4.0,,61442788.0,,6.0,False,2/23/2023,False
+movie_0387,Dragon Shadow,Movie,War,Comedy,2023,68,TV-PG,English,South Korea,5.8,1394167.0,,,103.0,False,7/7/2025,False
+movie_0388,Hidden Story,Documentary,Comedy,Documentary,2000,252,TV-G,English,USA,5.6,,,,,False,6/10/2024,False
+movie_0389,Family Family,Limited Series,War,History,2011,333,TV-G,Korean,USA,,,,5.0,,False,6/6/2024,False
+movie_0390,City Tale,Movie,Family,,1985,148,TV-G,English,USA,6.6,29075497.0,,,134.0,True,7/29/2023,False
+movie_0391,Wild Dream,Movie,Fantasy,,2024,31,TV-G,English,USA,6.7,2070912.0,25750045.0,,,False,10/6/2021,True
+movie_0392,Fire Family,Movie,Sci-Fi,Crime,2013,69,TV-14,English,Spain,5.3,,,12.0,,True,9/30/2025,False
+movie_0393,Journey Kingdom,Movie,Family,,2004,89,TV-G,English,UK,6.0,,8523806.0,,,False,9/12/2024,False
+movie_0394,Dragon Shadow,TV Series,Biography,Thriller,2013,79,TV-Y7,Korean,France,10.0,3798975.0,24119869.0,,,False,7/30/2023,True
+movie_0395,Adventure Legend,Movie,Comedy,,1990,158,TV-MA,English,Japan,10.0,,,,,False,8/14/2024,False
+movie_0396,Fire Adventure,Movie,Action,Drama,2019,126,PG-13,English,Japan,4.4,,,3.0,152.0,False,10/25/2022,False
+movie_0397,Dark Tale,Documentary,Family,,2002,29,TV-Y7,French,France,4.6,,,,,False,9/16/2024,True
+movie_0398,Family Legend,Movie,Sci-Fi,Comedy,2004,44,TV-MA,Japanese,South Korea,,18956108.0,,12.0,67.0,True,11/2/2025,False
+movie_0399,Secret War,Movie,Comedy,,2000,147,PG,Japanese,France,8.2,,26656572.0,,,False,9/22/2022,False
+movie_0400,House Adventure,Documentary,History,Drama,1999,193,PG,English,UK,5.5,1265948.0,85166852.0,,,False,1/16/2021,False
+movie_0401,Dragon Legend,Movie,Animation,,2014,90,TV-Y7,Hindi,USA,,,250203507.0,,,True,9/12/2024,False
+movie_0402,Adventure Story,Movie,Sport,,2009,209,PG-13,English,India,9.9,,,,,True,4/5/2025,True
+movie_0403,Bright Voyage,Movie,Biography,Adventure,2013,83,TV-Y,English,USA,,14334144.0,1425806.0,2.0,,False,2/17/2025,False
+movie_0404,Adventure Family,Movie,Music,Fantasy,2006,34,TV-G,Hindi,USA,7.5,20413774.0,,,,False,11/15/2025,False
+movie_0405,Night World,TV Series,Fantasy,,2012,118,TV-PG,Korean,Germany,7.2,,,2.0,48.0,False,9/26/2022,False
+movie_0406,Dragon Saga,Movie,Drama,Music,2001,430,R,Korean,USA,5.2,,,,,False,8/3/2025,False
+movie_0407,Dark Legend,Movie,Comedy,,2024,23,TV-G,Spanish,USA,8.2,,,,,False,1/15/2022,True
+movie_0408,Eternal Tale,Stand-up Comedy,Drama,,1988,204,PG-13,English,USA,4.7,,158477826.0,,,True,12/8/2023,True
+movie_0409,Dragon Family,Limited Series,Adventure,,2020,113,NC-17,Spanish,USA,,,,,,False,6/9/2025,False
+movie_0410,Silent World,Movie,Adventure,Western,2022,42,NC-17,Korean,Spain,,,,,,False,7/29/2025,True
+movie_0411,Dragon Dream,Movie,Family,,1996,10,TV-PG,English,South Korea,,,5669572.0,,,False,2/7/2024,False
+movie_0412,Our Dream,TV Series,Adventure,,2024,6,TV-Y7,English,Japan,4.3,,,,,False,9/24/2023,False
+movie_0413,Golden Warrior,Limited Series,Drama,,2017,48,TV-G,English,India,4.6,,11809262.0,5.0,11.0,True,4/21/2023,True
+movie_0414,Silent Saga,Limited Series,Documentary,,2017,100,PG-13,Hindi,France,5.5,,,,,True,5/3/2025,False
+movie_0415,Hidden Legend,Movie,Horror,,2006,140,TV-G,English,Germany,1.9,27081659.0,,,,False,5/25/2025,False
+movie_0416,City Empire,Movie,Family,Action,2004,163,PG,English,USA,5.8,,415215.0,,,False,3/14/2022,False
+movie_0417,Family Princess,Movie,Fantasy,,2004,94,TV-14,French,Japan,5.4,3053446.0,,,,False,9/6/2021,False
+movie_0418,Hidden Voyage,Limited Series,Documentary,,2010,84,PG-13,French,USA,7.7,,,9.0,,False,1/25/2025,True
+movie_0419,Eternal Mission,Limited Series,Western,Fantasy,2022,57,G,English,USA,7.0,,,,,False,1/19/2025,False
+movie_0420,Dragon Story,Movie,Action,,2008,102,G,German,UK,5.0,2303127.0,,,,False,7/2/2021,False
+movie_0421,House Dream,TV Series,War,Family,1996,43,PG-13,Japanese,USA,5.4,,,,,True,6/15/2023,False
+movie_0422,Royal Legend,Movie,Mystery,,2015,24,NC-17,Spanish,Japan,5.8,6035884.0,2971149.0,14.0,,True,7/14/2023,False
+movie_0423,Dragon Legend,Documentary,War,History,2017,80,TV-14,English,UK,,,4407304.0,,,False,3/19/2021,False
+movie_0424,Our Warrior,Limited Series,Crime,,2013,132,TV-MA,English,USA,4.8,,,,,False,4/26/2024,False
+movie_0425,Hidden Heart,TV Series,Animation,Comedy,2014,19,G,Korean,USA,5.0,,,,90.0,False,11/11/2025,True
+movie_0426,Secret Voyage,Movie,Romance,,2003,48,R,English,UK,4.2,,,,,True,1/22/2022,True
+movie_0427,Secret Empire,TV Series,Family,Biography,1995,77,TV-MA,Japanese,Germany,3.6,2567780.0,,,135.0,False,11/20/2024,True
+movie_0428,House Tale,Movie,Biography,,1996,76,TV-14,English,USA,6.8,,,,,True,5/28/2021,False
+movie_0429,City Warrior,Limited Series,Documentary,Romance,1987,111,R,German,India,6.6,,,1.0,28.0,True,1/27/2022,False
+movie_0430,Silent Voyage,Movie,Sci-Fi,,2009,247,NC-17,Spanish,South Korea,8.6,19274236.0,,,,False,10/29/2023,True
+movie_0431,Secret Story,Limited Series,Western,Western,2005,6,G,Spanish,France,8.2,,,10.0,,False,8/13/2025,False
+movie_0432,Fire Crown,Movie,Romance,,2001,254,TV-Y7,Mandarin,USA,10.0,7348579.0,,,,True,6/4/2025,False
+movie_0433,Hidden Shadow,Movie,History,,1972,240,TV-PG,Hindi,UK,6.1,,,,,False,9/4/2025,True
+movie_0434,Hidden Tale,Movie,Documentary,,1992,141,TV-MA,English,South Korea,,1966844.0,,,140.0,False,12/8/2025,True
+movie_0435,Family Legend,Movie,Adventure,,2019,89,PG,English,USA,,,,,44.0,False,12/31/2024,False
+movie_0436,Journey Mission,Movie,Horror,,1998,43,PG,Spanish,India,7.5,1422222.0,,10.0,96.0,False,10/26/2022,True
+movie_0437,Fire Family,Documentary,Family,,2010,140,R,Hindi,Germany,6.5,3118716.0,2909627.0,,,True,8/21/2021,False
+movie_0438,Dark Ice,Movie,Music,Sci-Fi,1990,92,TV-Y,Mandarin,Japan,7.4,,,,,False,2/9/2025,False
+movie_0439,Adventure Crown,Movie,Romance,,2022,58,TV-MA,German,UK,4.2,,,13.0,,False,12/7/2021,False
+movie_0440,Lost Heart,Movie,Romance,Adventure,2004,138,PG,English,Japan,,7333267.0,,,,True,8/9/2023,False
+movie_0441,Storm Tale,Movie,Sci-Fi,,2009,155,NC-17,Hindi,UK,6.6,,13545474.0,,132.0,False,10/8/2024,False
+movie_0442,Family Princess,Limited Series,Drama,Western,2024,192,TV-Y7,Hindi,South Korea,,,,,,True,3/5/2021,False
+movie_0443,Eternal Crown,Stand-up Comedy,Sport,,2023,39,R,Korean,USA,5.0,,,,,False,7/26/2025,False
+movie_0444,Storm Mission,Movie,Horror,,2003,175,TV-Y,Spanish,USA,8.4,3365304.0,,,,False,7/8/2022,False
+movie_0445,Dragon Empire,Documentary,Western,Western,1999,59,TV-G,Japanese,USA,10.0,,8623691.0,,30.0,False,1/28/2022,False
+movie_0446,Fire Shadow,Documentary,Thriller,,2002,89,R,Hindi,Spain,,,,,,True,11/10/2022,False
+movie_0447,Adventure World,Stand-up Comedy,War,,2012,102,PG-13,English,USA,7.6,193296.0,11799468.0,11.0,,True,4/22/2023,False
+movie_0448,Bright Heart,Movie,Animation,,2005,166,NC-17,Spanish,Germany,1.1,,,10.0,111.0,False,4/10/2023,False
+movie_0449,Adventure Warrior,Movie,War,,2001,128,G,English,Japan,7.5,,,,,True,10/10/2021,False
+movie_0450,Storm Heart,TV Series,Action,,2023,58,G,English,USA,2.9,2229744.0,,,,False,12/12/2021,False
+movie_0451,Dragon Legend,Limited Series,History,,2005,7,TV-MA,English,Germany,5.3,,,,,False,5/23/2023,False
+movie_0452,Warrior Saga,Documentary,War,,2024,110,TV-MA,English,Japan,3.9,387778.0,,,,True,2/18/2022,False
+movie_0453,Journey Shadow,TV Series,Romance,History,2007,86,TV-MA,English,USA,5.9,,,,,False,3/18/2024,False
+movie_0454,Family Princess,Movie,Documentary,,2024,23,TV-PG,Mandarin,USA,7.8,,,8.0,,True,6/29/2025,True
+movie_0455,Night Family,Documentary,Animation,,2010,94,R,Japanese,USA,2.9,,,,,False,2/3/2021,False
+movie_0456,Bright Mission,Limited Series,Adventure,,2017,77,TV-PG,Spanish,USA,5.6,,1924974.0,,,False,3/7/2021,False
+movie_0457,Night World,Movie,Drama,,1998,190,G,English,USA,5.3,,,,,False,3/19/2024,False
+movie_0458,Golden War,Documentary,Thriller,,1996,266,PG,English,France,,3877990.0,27020895.0,,,False,2/22/2021,False
+movie_0459,Adventure Voyage,Movie,History,Thriller,2011,152,TV-MA,German,USA,7.1,1207270.0,,,,False,3/13/2024,True
+movie_0460,City Dream,TV Series,Mystery,,2017,73,G,French,USA,4.1,538130.0,,,,True,6/14/2023,False
+movie_0461,Wild Kingdom,TV Series,Documentary,,2006,82,TV-Y,Japanese,USA,5.4,3405116.0,,,,True,4/11/2023,True
+movie_0462,Family Princess,Documentary,Fantasy,,1991,38,TV-PG,German,USA,9.1,,,,56.0,True,1/12/2024,True
+movie_0463,City Story,Stand-up Comedy,Thriller,,1990,45,TV-14,Spanish,India,7.6,7216332.0,110614528.0,2.0,,False,6/23/2025,False
+movie_0464,Adventure Legend,TV Series,Sport,,1990,70,TV-14,Japanese,USA,4.6,9580472.0,,,,False,8/21/2021,True
+movie_0465,Family Kingdom,Movie,History,,1986,64,R,Mandarin,USA,5.8,,,,138.0,False,9/4/2021,False
+movie_0466,Adventure Shadow,Movie,Action,,2007,21,R,French,France,5.8,4230801.0,13808011.0,,,False,6/25/2024,False
+movie_0467,City Dream,Movie,Biography,,2019,192,PG,Korean,Spain,5.3,3052736.0,,,,False,4/4/2021,False
+movie_0468,Family Story,Movie,Animation,,2006,210,TV-PG,English,South Korea,3.2,3659289.0,,,,True,2/22/2023,False
+movie_0469,Our Princess,Movie,Comedy,Documentary,1980,188,TV-Y,English,South Korea,,3230729.0,,,,True,6/24/2023,True
+movie_0470,Journey Ice,TV Series,History,History,2004,215,PG-13,English,Spain,8.8,,48281790.0,,,False,12/16/2022,False
+movie_0471,Dark Night,Movie,Crime,,2004,317,R,German,France,5.6,,7368860.0,,,False,8/31/2023,False
+movie_0472,Royal War,Movie,Romance,,2024,39,TV-MA,French,India,,,,7.0,41.0,False,7/27/2021,False
+movie_0473,Fire Family,Documentary,Adventure,,1989,308,R,English,USA,6.5,,,,,True,5/2/2022,False
+movie_0474,Secret Family,Movie,Action,Action,2002,57,NC-17,Korean,South Korea,10.0,,,,,False,1/10/2021,True
+movie_0475,Royal Legend,TV Series,Sci-Fi,,2024,122,G,English,Germany,,,4051049.0,,,True,10/21/2025,False
+movie_0476,Fire Legend,Limited Series,Music,War,2011,16,TV-G,English,Spain,8.3,,,,,False,2/27/2025,False
+movie_0477,Golden Adventure,TV Series,War,,2012,51,TV-Y,Hindi,Japan,,,,,,True,4/9/2022,True
+movie_0478,Eternal Heart,Movie,Thriller,,2007,155,PG-13,English,South Korea,5.8,,,6.0,,True,3/8/2021,False
+movie_0479,Night Heart,Movie,History,,2010,127,G,English,USA,6.3,6830651.0,,,97.0,False,5/9/2022,True
+movie_0480,Secret Adventure,TV Series,Thriller,Adventure,2015,56,TV-Y7,English,France,4.9,1794391.0,,1.0,64.0,False,10/11/2025,False
+movie_0481,Our Night,TV Series,Mystery,,1997,82,TV-Y,English,USA,5.9,1333297.0,,8.0,,False,1/20/2025,False
+movie_0482,Hidden Mission,Movie,Action,,2016,47,NC-17,French,France,,,,7.0,,True,4/17/2024,False
+movie_0483,Royal Kingdom,TV Series,War,Sport,1990,155,TV-PG,Mandarin,UK,,3338789.0,,,115.0,False,8/12/2025,False
+movie_0484,Golden Legend,TV Series,Sport,,2010,200,TV-PG,Japanese,USA,6.3,,,6.0,102.0,False,11/19/2021,False
+movie_0485,Royal Legend,Movie,War,,2008,39,G,Japanese,USA,7.6,,,,,False,9/6/2023,False
+movie_0486,House Adventure,TV Series,Mystery,War,1999,76,TV-14,English,USA,4.8,,5355604.0,,68.0,True,12/19/2024,False
+movie_0487,Journey War,Movie,Horror,Sci-Fi,2006,21,NC-17,Japanese,France,8.3,2500114.0,3834347.0,3.0,73.0,False,2/4/2021,False
+movie_0488,Our Mission,Movie,Sci-Fi,,1999,92,PG,English,UK,,,,,31.0,False,3/5/2023,True
+movie_0489,Fire Kingdom,Limited Series,Sci-Fi,Western,1994,113,TV-PG,English,UK,6.0,854800.0,164059569.0,,,False,10/11/2022,False
+movie_0490,Big Kingdom,Movie,Mystery,,2002,98,TV-G,Spanish,USA,2.6,,777107.0,,,False,11/19/2021,False
+movie_0491,Lost Shadow,TV Series,History,,1993,107,R,English,South Korea,,,,,,False,2/13/2022,False
+movie_0492,Lost Dream,Movie,Biography,,2010,70,G,English,UK,6.9,,18281678.0,,,True,11/2/2025,False
+movie_0493,Lost Dream,Movie,Comedy,,1993,71,NC-17,English,USA,9.4,,66839698.0,,131.0,True,7/22/2023,False
+movie_0494,Golden Legend,Limited Series,Horror,History,2014,68,TV-PG,Spanish,USA,7.3,,32902329.0,,,True,5/29/2021,False
+movie_0495,City Voyage,Movie,Documentary,,1993,50,TV-Y,English,Japan,8.3,,121637160.0,8.0,,False,5/30/2024,True
+movie_0496,Big Kingdom,Movie,Family,Action,2000,55,R,English,USA,4.1,3600577.0,,,,True,12/15/2023,False
+movie_0497,Warrior Adventure,Limited Series,Family,,1999,110,TV-G,Spanish,USA,6.0,1230257.0,,1.0,,True,12/18/2022,True
+movie_0498,Adventure Heart,Documentary,Romance,Action,2021,192,R,English,USA,8.5,3848277.0,,,,False,12/26/2022,False
+movie_0499,Adventure House,Documentary,Action,Animation,2010,33,PG,Hindi,USA,4.7,,,,,True,9/8/2023,False
+movie_0500,Secret Ice,Movie,Thriller,War,2004,71,TV-G,English,USA,8.0,,,2.0,,False,8/23/2025,False
+movie_0501,Eternal Crown,Movie,Action,Adventure,2012,26,PG-13,French,USA,7.6,,40662807.0,8.0,110.0,False,10/18/2024,False
+movie_0502,Lost Saga,Documentary,Music,,1982,51,TV-Y,Mandarin,South Korea,,,,,179.0,False,1/1/2023,False
+movie_0503,Fire Story,Movie,Documentary,,2006,58,TV-14,Japanese,Japan,5.7,,,,,False,3/26/2022,False
+movie_0504,Hidden Ice,Movie,Western,War,2024,87,TV-PG,French,USA,4.5,1609214.0,,,,False,7/18/2021,True
+movie_0505,Bright Ice,Documentary,Crime,,2008,85,PG,English,France,,1350177.0,,1.0,,False,12/24/2021,True
+movie_0506,City Voyage,Movie,Romance,,2007,75,TV-MA,French,Japan,7.4,,21561078.0,,46.0,False,9/8/2021,False
+movie_0507,City Legend,Movie,History,Romance,2012,103,G,Hindi,USA,6.9,,,4.0,144.0,False,1/10/2025,False
+movie_0508,Adventure Tale,Movie,Western,Sci-Fi,2016,36,TV-MA,French,USA,5.5,,,,,True,11/17/2023,True
+movie_0509,Night War,TV Series,Western,,1983,88,PG-13,Hindi,USA,6.3,3319206.0,,,,False,3/9/2021,False
+movie_0510,Dragon Family,TV Series,Animation,Action,1987,129,TV-Y7,Japanese,France,6.6,,6824947.0,,,False,8/18/2025,False
+movie_0511,Storm Warrior,Limited Series,Western,,2008,35,PG,Japanese,Japan,7.0,,,,,False,10/2/2021,False
+movie_0512,Wild Tale,Movie,Romance,Crime,1998,13,TV-Y,English,USA,7.6,,,,,False,3/23/2024,True
+movie_0513,Hidden Warrior,Movie,Mystery,,2021,154,TV-Y,French,Japan,4.9,4765874.0,43332940.0,10.0,,False,1/23/2021,False
+movie_0514,Storm Legend,TV Series,Western,Mystery,2002,27,PG,Spanish,India,3.6,,,,,False,12/11/2023,True
+movie_0515,Lost House,Movie,Adventure,,1984,49,TV-Y7,Korean,USA,6.4,,,12.0,106.0,False,10/11/2023,False
+movie_0516,Journey Princess,TV Series,Fantasy,,1992,127,PG-13,English,Japan,3.1,,19519387.0,11.0,,True,7/17/2025,False
+movie_0517,Bright Legend,Stand-up Comedy,History,,1975,34,TV-Y7,Japanese,Japan,5.7,,,,,False,1/1/2024,False
+movie_0518,Storm Crown,TV Series,Horror,,2003,147,TV-Y7,French,UK,5.3,,2379603.0,,,True,6/12/2023,True
+movie_0519,Wild Legend,Movie,Sci-Fi,Drama,2004,43,NC-17,Hindi,UK,7.2,,,,,False,8/28/2023,True
+movie_0520,Family Tale,Stand-up Comedy,War,,2001,38,TV-Y7,English,UK,,,16855328.0,,109.0,False,3/1/2024,False
+movie_0521,Dark Tale,Movie,History,Action,2018,27,NC-17,English,USA,2.8,,28291014.0,,,False,1/27/2023,False
+movie_0522,Family Night,Stand-up Comedy,Adventure,,2020,43,TV-PG,English,USA,10.0,2170092.0,,3.0,,False,7/26/2024,True
+movie_0523,Dark Princess,TV Series,Crime,Documentary,2004,115,PG-13,English,South Korea,5.8,3246450.0,,,172.0,False,8/24/2023,True
+movie_0524,City Heart,TV Series,Drama,,1982,49,NC-17,Mandarin,USA,6.9,,21226345.0,,,False,11/4/2025,False
+movie_0525,Silent Family,Stand-up Comedy,Comedy,,2013,154,TV-Y7,English,India,3.7,6894794.0,,12.0,180.0,True,12/20/2021,True
+movie_0526,Adventure Night,TV Series,Music,,2012,78,TV-PG,Japanese,USA,,8818945.0,,,,False,8/23/2024,False
+movie_0527,Adventure World,TV Series,Biography,Family,2010,83,G,English,Japan,6.3,,,,,True,2/16/2025,False
+movie_0528,Storm World,Movie,Animation,Drama,2017,37,R,English,Japan,6.2,,,,153.0,True,8/3/2024,False
+movie_0529,Family Crown,Documentary,Drama,,1993,170,TV-G,Mandarin,USA,2.8,2273131.0,,,,False,11/25/2025,False
+movie_0530,Family Legend,TV Series,Sport,,2024,130,TV-G,English,South Korea,6.4,9678113.0,,,,False,3/4/2023,False
+movie_0531,Bright Shadow,Movie,Mystery,Family,1995,127,TV-14,English,USA,7.8,,,,,False,9/14/2023,True
+movie_0532,Our Shadow,Documentary,Sport,,2015,66,TV-G,English,Japan,5.8,,,,,True,10/8/2021,False
+movie_0533,Bright Night,Documentary,Drama,Mystery,1987,23,TV-G,Mandarin,France,8.4,,68268855.0,,121.0,False,11/15/2022,True
+movie_0534,Royal Dream,Movie,Sport,,1995,86,TV-Y7,Mandarin,Germany,8.3,,41796653.0,,,True,10/19/2021,False
+movie_0535,Big Legend,Movie,Sport,,2023,111,R,English,France,5.1,1633108.0,,,,True,12/16/2024,True
+movie_0536,Silent Mission,TV Series,Horror,,2003,112,PG-13,Korean,India,9.2,,18615480.0,12.0,181.0,True,11/28/2024,False
+movie_0537,Bright Ice,Movie,Comedy,,2016,102,TV-Y7,English,Germany,6.4,5392450.0,,,,False,12/19/2021,True
+movie_0538,Journey Princess,Movie,Music,Documentary,2009,99,TV-MA,Japanese,USA,6.4,,,,68.0,False,1/5/2025,False
+movie_0539,Dark Princess,TV Series,Crime,,2005,42,PG,English,Germany,6.4,6417789.0,,,43.0,True,8/9/2022,False
+movie_0540,Family Tale,Movie,War,,2022,44,G,German,Spain,,1145305.0,,,,True,8/24/2024,True
+movie_0541,Royal World,Movie,Fantasy,,2003,27,NC-17,Hindi,USA,,2602757.0,,,,False,9/12/2025,False
+movie_0542,Secret Kingdom,Documentary,Biography,,1986,156,PG,English,France,5.9,,,,,False,2/22/2025,True
+movie_0543,Warrior Tale,Movie,Action,,1997,258,PG,English,USA,,1922743.0,70590838.0,,,True,12/6/2021,False
+movie_0544,Eternal World,Stand-up Comedy,History,Documentary,2012,425,TV-Y,English,France,9.2,4336396.0,11085632.0,4.0,133.0,False,11/25/2021,False
+movie_0545,Silent Princess,Limited Series,Documentary,Sci-Fi,2011,91,TV-Y,English,USA,9.1,4267578.0,,,,False,7/24/2021,False
+movie_0546,Adventure Adventure,TV Series,Horror,,1988,99,G,English,UK,7.8,,,,89.0,False,3/17/2025,False
+movie_0547,Hidden Night,Stand-up Comedy,Music,,1998,69,R,English,USA,,,,9.0,49.0,True,9/25/2023,False
+movie_0548,Big Warrior,Limited Series,Comedy,,1999,90,TV-14,Mandarin,France,4.4,,,8.0,6.0,False,10/12/2021,False
+movie_0549,Hidden Crown,Movie,Romance,Biography,2002,34,PG,English,USA,5.1,,66349941.0,,71.0,False,12/9/2023,False
+movie_0550,Dragon Adventure,Documentary,Adventure,Family,1990,67,TV-G,Spanish,UK,9.8,,,,,False,8/26/2023,False
+movie_0551,Journey War,Movie,War,History,1999,38,TV-MA,English,Japan,5.0,,,,,False,12/26/2023,False
+movie_0552,Royal Princess,Documentary,Thriller,,1998,61,PG-13,Japanese,France,2.0,1492045.0,,3.0,,False,3/4/2024,False
+movie_0553,House Princess,TV Series,Sci-Fi,,2015,41,PG,English,USA,8.1,,,,,False,10/28/2021,True
+movie_0554,City Saga,Movie,Biography,,2015,111,TV-Y7,Hindi,USA,9.0,,,6.0,29.0,False,12/8/2022,False
+movie_0555,Royal Legend,Movie,Horror,,2004,122,R,English,USA,,1020942.0,1878806.0,11.0,,True,8/9/2024,True
+movie_0556,Golden Empire,Stand-up Comedy,Documentary,,2002,97,NC-17,English,Spain,8.1,,,,,False,7/18/2025,False
+movie_0557,Warrior Legend,Movie,Documentary,,2008,44,TV-MA,French,USA,8.4,2635085.0,4674776.0,,,False,3/19/2022,False
+movie_0558,Warrior War,Movie,Romance,Thriller,1997,25,TV-PG,French,UK,6.4,,749295.0,,,False,11/9/2023,False
+movie_0559,Secret Kingdom,Movie,Sport,,1993,123,TV-MA,French,USA,2.5,,,,6.0,False,9/27/2025,True
+movie_0560,Dark War,TV Series,Romance,Crime,1995,77,PG-13,English,UK,6.3,,7419441.0,4.0,,True,1/3/2024,True
+movie_0561,Dragon Warrior,Limited Series,Romance,,1999,12,TV-14,English,USA,7.4,43833433.0,57512637.0,,,False,2/21/2022,False
+movie_0562,City Empire,Documentary,Biography,,1993,86,TV-Y,Spanish,Japan,6.0,,,2.0,64.0,False,12/2/2023,False
+movie_0563,Hidden Tale,TV Series,Horror,Documentary,2008,99,TV-Y,Korean,USA,5.9,,,,,False,6/12/2023,False
+movie_0564,Hidden Dream,Movie,Action,,2014,17,PG-13,Korean,USA,4.5,3091138.0,,6.0,,False,11/3/2023,False
+movie_0565,Lost Dream,Movie,Horror,,1988,113,PG-13,English,USA,,,,,,True,4/14/2021,True
+movie_0566,Night Dream,TV Series,Family,,2006,20,PG-13,English,USA,9.6,,18359638.0,,,True,1/6/2022,False
+movie_0567,Eternal Crown,Limited Series,Horror,,2003,40,TV-Y7,Hindi,Japan,9.7,,,1.0,,False,12/10/2025,False
+movie_0568,Golden Warrior,Documentary,Adventure,,2010,20,TV-Y7,French,India,6.3,,,,,False,2/22/2024,True
+movie_0569,Dark Night,Movie,War,,2006,37,TV-14,English,Japan,6.8,2027847.0,,,,False,4/17/2023,False
+movie_0570,Bright Ice,TV Series,Action,Crime,1989,25,TV-G,Hindi,Spain,,1743561.0,,,,False,2/23/2022,True
+movie_0571,Wild House,TV Series,Horror,Family,1992,155,TV-14,Japanese,Japan,7.4,1824056.0,21548747.0,,38.0,False,8/15/2021,False
+movie_0572,Royal Tale,TV Series,Thriller,,2006,64,G,English,USA,9.5,17764357.0,7454329.0,,,False,2/21/2023,True
+movie_0573,Big War,TV Series,Family,Fantasy,2018,53,TV-PG,English,USA,3.5,,,,,False,9/23/2023,False
+movie_0574,Adventure Crown,Documentary,Family,Biography,1981,165,TV-Y7,French,USA,7.1,,11590655.0,11.0,,False,11/24/2021,False
+movie_0575,Dark Tale,TV Series,Fantasy,,2010,159,TV-14,English,USA,7.2,,,,,False,1/1/2025,True
+movie_0576,Night Ice,Stand-up Comedy,Sci-Fi,,2020,57,PG,Japanese,Germany,7.2,,,7.0,,False,2/22/2023,False
+movie_0577,Family Story,TV Series,War,,2004,95,G,French,UK,9.2,,,,,False,4/12/2021,False
+movie_0578,House Kingdom,Movie,Biography,,2012,47,TV-PG,English,France,10.0,1333248.0,,,168.0,False,4/22/2025,False
+movie_0579,Fire Tale,Movie,Documentary,,1998,71,TV-PG,Hindi,Japan,5.8,,46788818.0,14.0,89.0,True,9/9/2022,True
+movie_0580,Night House,TV Series,Thriller,Fantasy,2005,30,G,English,USA,7.5,,,7.0,,False,11/12/2022,False
+movie_0581,Lost War,TV Series,Crime,,1988,105,TV-Y7,English,France,6.4,2109622.0,,6.0,,False,12/30/2021,True
+movie_0582,Hidden Ice,TV Series,Thriller,Horror,1979,169,R,French,USA,5.1,,,14.0,,False,1/14/2025,False
+movie_0583,Adventure Family,Documentary,Sport,Music,2017,150,R,Korean,USA,6.8,,,,,True,1/29/2025,False
+movie_0584,Dragon Night,Movie,Documentary,,1995,80,TV-Y,English,USA,7.5,3204861.0,53824437.0,8.0,,False,3/19/2022,True
+movie_0585,Secret Story,Documentary,Comedy,,2001,11,NC-17,Korean,USA,6.7,,,,,True,8/24/2024,False
+movie_0586,Golden Heart,Documentary,Action,Romance,1990,46,TV-Y,Hindi,UK,4.7,,88272061.0,,,False,4/6/2023,False
+movie_0587,Night Princess,Movie,Western,Western,1990,71,TV-MA,German,USA,5.4,,464556.0,,,False,11/1/2021,True
+movie_0588,Dragon House,Movie,Drama,,2004,22,PG,German,USA,5.4,,,6.0,109.0,False,12/23/2024,False
+movie_0589,House Mission,Movie,Biography,,1998,18,TV-PG,English,Germany,4.7,,,,68.0,False,6/1/2021,True
+movie_0590,City Legend,Movie,Animation,,2010,201,TV-G,English,India,6.8,,,,,False,5/15/2025,True
+movie_0591,Golden Story,Documentary,Romance,,2011,138,TV-Y,Japanese,Japan,7.0,,,,,False,2/16/2021,False
+movie_0592,Dark Adventure,Limited Series,Documentary,,2010,111,PG-13,English,Japan,8.0,,,13.0,,False,8/13/2022,False
+movie_0593,Family Legend,TV Series,Western,Horror,2009,127,TV-Y,German,South Korea,4.7,,,,,False,2/18/2022,False
+movie_0594,Our Heart,Movie,Romance,,2024,26,TV-MA,English,USA,5.2,1271358.0,65578130.0,,,False,3/6/2022,False
+movie_0595,Lost Legend,Documentary,Drama,,1994,36,TV-14,English,USA,9.1,,,,129.0,False,5/27/2023,False
+movie_0596,Family Legend,Documentary,Action,Sport,2005,91,NC-17,English,USA,6.0,,2059646.0,,,True,10/3/2024,False
+movie_0597,Our Shadow,Movie,Action,,2019,96,NC-17,English,USA,6.3,5302871.0,,,156.0,False,12/31/2022,False
+movie_0598,Adventure Heart,Limited Series,Music,Biography,2020,21,PG-13,English,India,6.0,,,,,False,7/31/2023,False
+movie_0599,Dark World,Movie,Sport,,1990,86,PG-13,Korean,UK,8.3,14371725.0,,,92.0,True,11/8/2025,True
+movie_0600,Eternal Heart,Movie,Biography,,2002,72,TV-MA,Japanese,India,8.4,2211630.0,114622920.0,,,True,6/28/2023,False
+movie_0601,Wild War,Movie,Sci-Fi,Sport,2021,146,TV-PG,English,UK,8.3,,,10.0,,False,12/16/2024,True
+movie_0602,Secret Crown,Movie,Documentary,Sci-Fi,2012,97,TV-Y7,English,France,6.3,1398260.0,6324558.0,,,False,12/4/2022,False
+movie_0603,Silent Saga,Limited Series,Crime,Fantasy,2008,217,NC-17,German,UK,4.7,,4707573.0,6.0,,False,5/23/2021,False
+movie_0604,Adventure Shadow,TV Series,Fantasy,,2004,57,TV-14,English,France,9.8,,,,,False,4/12/2022,False
+movie_0605,House World,Movie,History,,2002,28,TV-14,Japanese,Japan,7.8,4724037.0,,,,False,10/18/2021,False
+movie_0606,Golden Voyage,TV Series,Biography,,2009,213,TV-Y7,Japanese,USA,5.4,38704481.0,,,,False,7/14/2025,False
+movie_0607,Journey Saga,Movie,Animation,Romance,2003,100,TV-PG,Japanese,Japan,8.8,,,,140.0,True,2/18/2021,False
+movie_0608,Storm Family,Movie,Adventure,,2006,73,G,Spanish,USA,5.3,5163075.0,,10.0,124.0,False,2/9/2025,False
+movie_0609,Adventure Crown,Movie,Sport,,2007,37,TV-14,Korean,Japan,8.8,,,3.0,165.0,False,9/10/2021,True
+movie_0610,Eternal Adventure,Documentary,Romance,Romance,1998,58,G,Mandarin,USA,8.9,,,,123.0,False,10/2/2021,False
+movie_0611,Silent Kingdom,Movie,Music,Action,2012,55,TV-G,Spanish,Japan,4.6,,,14.0,,True,8/25/2023,False
+movie_0612,Secret Dream,Documentary,Crime,,2024,27,TV-Y,English,USA,7.3,,126089332.0,2.0,,False,5/28/2021,False
+movie_0613,Family World,Movie,Crime,Romance,1986,7,R,English,USA,7.7,,,,,False,5/21/2021,False
+movie_0614,Fire World,Documentary,Crime,Drama,2010,54,TV-14,English,Japan,10.0,798227.0,,,,False,11/16/2024,True
+movie_0615,Our Legend,Limited Series,Mystery,Animation,1997,129,TV-PG,English,USA,4.9,,5651438.0,1.0,,False,4/20/2021,True
+movie_0616,Hidden Crown,Movie,Music,Mystery,2013,179,TV-PG,Japanese,India,8.9,,4081856.0,,105.0,False,12/26/2023,False
+movie_0617,Secret Crown,Movie,Sci-Fi,,2007,150,PG,English,USA,6.3,,3462523.0,,,False,8/4/2021,True
+movie_0618,Silent House,Stand-up Comedy,Sport,Music,2015,156,G,English,USA,4.0,11358591.0,,,,False,6/6/2021,False
+movie_0619,Dragon Family,TV Series,Comedy,,2019,30,TV-14,English,USA,6.1,5746205.0,,7.0,180.0,True,5/6/2024,False
+movie_0620,House Legend,Documentary,Horror,History,2008,92,NC-17,Korean,South Korea,6.3,,,,178.0,False,12/17/2022,False
+movie_0621,Adventure Voyage,Movie,Sport,,2019,112,R,French,France,4.4,6844144.0,,,,False,2/5/2021,True
+movie_0622,Secret War,Movie,History,,1979,117,TV-G,Mandarin,USA,6.8,,,4.0,,False,5/28/2024,True
+movie_0623,Wild World,TV Series,Family,,2024,72,PG,English,USA,8.0,,13993975.0,,,False,11/5/2025,False
+movie_0624,Hidden War,Limited Series,War,,2010,84,NC-17,English,UK,,,,,197.0,False,10/21/2023,False
+movie_0625,Big World,Movie,Mystery,Action,2018,147,TV-MA,Mandarin,Spain,5.3,,,,159.0,False,11/26/2022,False
+movie_0626,City Adventure,Documentary,Mystery,,1992,109,TV-Y,French,USA,,4756480.0,26909436.0,2.0,,False,3/20/2025,False
+movie_0627,Storm Voyage,Documentary,War,,1997,124,TV-Y7,Japanese,USA,,,19747796.0,,,True,9/7/2022,False
+movie_0628,Silent Warrior,Movie,Fantasy,Comedy,2008,52,PG,Japanese,USA,6.7,,26738836.0,,103.0,False,1/24/2024,False
+movie_0629,Warrior Kingdom,Movie,Horror,Western,2006,119,R,English,USA,8.3,4108554.0,,6.0,94.0,True,5/17/2023,False
+movie_0630,Adventure Voyage,Movie,Sport,,2009,83,TV-Y7,Spanish,UK,6.8,,,1.0,,False,8/18/2024,False
+movie_0631,City Story,TV Series,Sport,,2018,137,G,Korean,India,,,5005831.0,,,False,8/4/2023,False
+movie_0632,Family Tale,Documentary,Drama,Horror,1986,42,TV-MA,Japanese,India,5.3,4807335.0,56789384.0,9.0,,False,5/30/2023,False
+movie_0633,City Legend,TV Series,Family,Documentary,2017,130,TV-PG,Japanese,South Korea,6.6,,23150167.0,,,True,2/6/2023,False
+movie_0634,Storm Night,Movie,Sport,,2006,58,G,English,USA,,648178.0,,,,False,6/24/2022,False
+movie_0635,Royal Warrior,Documentary,Sci-Fi,Western,2004,130,R,English,India,8.6,,,13.0,,False,6/7/2023,True
+movie_0636,Night Family,TV Series,War,,1989,93,TV-G,French,USA,,,,,112.0,False,4/21/2021,False
+movie_0637,Royal Dream,TV Series,Biography,,2012,79,TV-Y,Japanese,USA,6.5,,,,,False,9/13/2022,False
+movie_0638,Bright Shadow,TV Series,Family,Thriller,1978,61,TV-PG,English,UK,7.7,,3742941.0,14.0,146.0,False,5/20/2021,False
+movie_0639,Silent Voyage,Movie,Drama,,2013,73,TV-PG,English,USA,3.6,852497.0,,,,False,8/11/2022,False
+movie_0640,Dragon Saga,Documentary,Mystery,Action,1989,54,PG,Hindi,South Korea,7.0,,,,,True,10/4/2022,False
+movie_0641,Bright Crown,Movie,Thriller,History,2007,60,TV-MA,English,India,4.3,14543030.0,,,,True,2/19/2021,False
+movie_0642,Night Voyage,Movie,Sport,Animation,2005,107,TV-Y,English,South Korea,6.2,,,,,False,6/25/2022,True
+movie_0643,Night Warrior,Movie,Animation,,2019,15,TV-PG,Korean,South Korea,10.0,490716.0,3985149.0,,,False,5/11/2024,False
+movie_0644,Wild Empire,TV Series,History,,2004,129,PG-13,German,USA,6.8,1700356.0,,,199.0,True,11/6/2025,True
+movie_0645,Fire Heart,TV Series,Music,,1998,130,TV-MA,Korean,USA,4.7,1109943.0,,,127.0,True,2/1/2024,False
+movie_0646,City Tale,Movie,Animation,,2000,62,G,Spanish,South Korea,7.0,6739341.0,259233812.0,1.0,,False,7/23/2024,False
+movie_0647,Family Legend,Limited Series,Mystery,,2021,86,TV-G,English,France,5.3,6036450.0,,,,True,5/5/2024,False
+movie_0648,Royal Ice,Limited Series,Comedy,,2012,33,TV-PG,Hindi,Germany,4.5,268904.0,4279732.0,,89.0,False,9/20/2025,False
+movie_0649,City Dream,Movie,Horror,,2002,102,TV-Y7,Hindi,USA,10.0,,46372467.0,,,False,9/14/2025,False
+movie_0650,Adventure Legend,Documentary,Documentary,,2003,37,TV-Y,Japanese,USA,8.2,,,11.0,,False,7/28/2021,False
+movie_0651,Bright Night,Movie,History,,1988,2,TV-Y,Korean,USA,6.9,4629577.0,,,,False,5/14/2023,True
+movie_0652,Dark Saga,Stand-up Comedy,Family,,2010,175,G,English,UK,5.6,,,,,True,7/15/2025,True
+movie_0653,Golden Dream,Movie,Animation,,1986,30,TV-Y7,English,South Korea,5.7,,,,,True,5/29/2025,False
+movie_0654,City Empire,Movie,Animation,,2015,72,G,English,India,,,11802490.0,1.0,,True,9/3/2023,False
+movie_0655,Family Tale,TV Series,Mystery,,2007,88,NC-17,English,USA,6.8,3925264.0,,8.0,,False,3/22/2023,False
+movie_0656,Adventure House,Movie,Sport,,2024,107,PG,Mandarin,Japan,0.7,,,6.0,,False,4/17/2021,True
+movie_0657,Eternal Tale,Documentary,Comedy,,1993,77,G,English,USA,10.0,,61073653.0,,33.0,True,5/22/2023,False
+movie_0658,Wild Legend,TV Series,Comedy,,2005,94,TV-Y7,Japanese,USA,,8012392.0,,5.0,70.0,False,7/14/2023,False
+movie_0659,Dark Kingdom,Movie,History,,2024,61,TV-MA,English,USA,6.9,,,,,False,3/1/2024,True
+movie_0660,Family Night,TV Series,Sport,,2020,18,R,English,France,8.2,,30015278.0,,,True,8/11/2023,False
+movie_0661,Fire Legend,Limited Series,Sport,,1998,75,TV-14,English,Japan,,,,3.0,,True,1/30/2022,False
+movie_0662,Lost Saga,Documentary,Mystery,Family,2009,118,R,English,USA,,,,,,False,11/2/2025,False
+movie_0663,Wild Mission,TV Series,Horror,,2006,32,PG,Korean,France,5.5,,,,,False,2/1/2022,False
+movie_0664,Silent Warrior,Movie,Crime,Sport,2009,89,TV-G,Mandarin,South Korea,4.0,,,,,False,11/30/2022,True
+movie_0665,Silent House,Movie,War,,1998,246,TV-Y7,English,USA,6.8,6562824.0,,14.0,,True,7/20/2023,False
+movie_0666,Family Shadow,Limited Series,Drama,,2005,71,TV-Y,Mandarin,USA,8.9,1127540.0,,,,False,6/20/2022,False
+movie_0667,Family Voyage,Documentary,History,,1988,74,TV-PG,Korean,UK,5.1,,2599407.0,,,True,5/6/2021,False
+movie_0668,Adventure World,TV Series,Crime,Drama,2008,16,TV-PG,Korean,South Korea,5.0,8125375.0,,,153.0,False,1/21/2024,False
+movie_0669,Silent Legend,Limited Series,Fantasy,,2011,28,PG,English,South Korea,8.5,,,,64.0,False,3/8/2022,False
+movie_0670,Eternal Night,Movie,Horror,,2003,38,G,English,USA,5.4,1566802.0,,,,False,5/24/2025,False
+movie_0671,Adventure Princess,Documentary,Family,,1988,114,TV-MA,Spanish,Japan,5.5,,,,,True,12/18/2024,False
+movie_0672,Fire Kingdom,Movie,Biography,,2017,34,PG,Japanese,Germany,5.6,,,,,True,2/21/2023,True
+movie_0673,Warrior World,Movie,Mystery,Fantasy,2010,101,PG-13,English,USA,6.2,,,,,False,4/27/2023,False
+movie_0674,Hidden Shadow,TV Series,War,Sci-Fi,1998,41,PG,German,USA,,,,,94.0,True,9/30/2025,False
+movie_0675,Bright Heart,Movie,Documentary,Comedy,2003,17,R,English,India,5.3,,,,,False,2/18/2021,False
+movie_0676,Storm Night,Stand-up Comedy,Sci-Fi,Adventure,1989,124,TV-PG,German,USA,6.7,,,,,True,11/23/2022,False
+movie_0677,Journey Story,Movie,Thriller,Music,1994,56,R,English,UK,6.7,,3683343.0,8.0,,True,4/21/2021,False
+movie_0678,Warrior War,Limited Series,Mystery,Horror,2000,107,TV-14,Hindi,Germany,8.4,,110307440.0,,130.0,False,9/10/2021,False
+movie_0679,Big Family,Documentary,Comedy,,2020,16,TV-G,English,USA,,4068709.0,,12.0,,True,8/6/2025,False
+movie_0680,Fire Night,Documentary,Western,War,1999,6,TV-Y7,English,UK,9.0,,160346305.0,,,False,7/5/2021,False
+movie_0681,Storm Warrior,Stand-up Comedy,Music,Documentary,2013,83,TV-Y7,French,Japan,7.9,,1115764.0,8.0,,False,10/13/2025,False
+movie_0682,Big Mission,Movie,War,Romance,2000,27,NC-17,English,Germany,6.0,,7142993.0,12.0,,True,12/1/2024,True
+movie_0683,Lost Legend,Movie,Music,,2009,82,TV-Y7,Hindi,Germany,5.1,,,1.0,,False,3/16/2024,False
+movie_0684,House Adventure,Movie,Comedy,Drama,2004,83,R,Korean,Germany,6.3,,,4.0,43.0,False,9/16/2024,False
+movie_0685,Secret Heart,Movie,War,,2016,75,PG-13,English,USA,7.3,,,2.0,68.0,False,12/4/2021,False
+movie_0686,Wild House,Limited Series,Mystery,Thriller,2000,155,TV-14,English,UK,7.8,,,4.0,,False,8/2/2021,False
+movie_0687,Family Adventure,TV Series,Horror,Music,1988,99,NC-17,Hindi,Spain,7.4,,,,166.0,False,11/3/2022,False
+movie_0688,Wild World,Movie,Romance,,1990,245,R,Korean,France,,,11965432.0,,,False,10/27/2024,False
+movie_0689,Secret Crown,Movie,Animation,,2000,57,NC-17,Spanish,France,7.7,4905532.0,6759833.0,,106.0,False,7/12/2022,False
+movie_0690,Adventure Ice,TV Series,War,Drama,1992,23,TV-MA,English,USA,8.6,,15425794.0,,74.0,False,11/17/2021,True
+movie_0691,Secret Legend,Documentary,Thriller,,2011,43,TV-PG,Hindi,Germany,7.9,1815219.0,7169237.0,4.0,,False,12/3/2024,False
+movie_0692,Big Saga,Movie,War,Horror,2001,60,TV-Y,Japanese,USA,6.2,3076511.0,,,26.0,True,3/3/2024,False
+movie_0693,Night Empire,Documentary,Family,Drama,2024,259,R,Korean,USA,,4615507.0,11570577.0,,,True,9/8/2023,False
+movie_0694,Lost House,Documentary,Drama,Mystery,1986,79,R,English,Spain,4.7,,,,104.0,True,1/23/2023,False
+movie_0695,Wild Saga,Documentary,Documentary,,2008,159,TV-MA,English,Spain,5.0,19244502.0,,,,True,11/23/2024,False
+movie_0696,House Ice,Movie,War,,1993,53,TV-Y,Mandarin,India,6.7,10962112.0,,,121.0,False,10/20/2022,False
+movie_0697,Secret Crown,Documentary,Romance,,2000,48,R,Mandarin,Japan,7.2,5335966.0,,,154.0,False,8/25/2021,False
+movie_0698,Warrior Kingdom,Movie,Crime,Adventure,2008,16,TV-PG,English,USA,3.7,,,,,True,5/6/2025,False
+movie_0699,Golden Dream,Movie,War,,1979,254,G,Hindi,Japan,5.4,,,,,False,9/7/2021,False
+movie_0700,Dragon Legend,Documentary,Fantasy,Biography,2009,196,PG,English,USA,6.7,,,,,False,2/23/2023,True
+movie_0701,Hidden Empire,Documentary,Comedy,,2024,90,TV-Y7,English,Germany,4.6,,,,140.0,False,6/24/2025,False
+movie_0702,House House,Movie,Comedy,,2001,63,TV-Y,English,Japan,7.1,4474296.0,,,159.0,False,2/1/2023,False
+movie_0703,Our Princess,Limited Series,War,,2009,81,TV-Y,English,USA,5.7,,,,93.0,False,2/26/2025,False
+movie_0704,Big Saga,Movie,Romance,History,2018,22,NC-17,English,USA,,2924624.0,23286620.0,,,False,6/12/2023,False
+movie_0705,Dragon Legend,TV Series,Sci-Fi,,2004,107,NC-17,English,USA,6.4,,,,120.0,True,9/21/2024,False
+movie_0706,Storm Kingdom,Stand-up Comedy,Mystery,,1999,185,TV-14,English,Germany,7.0,,,,128.0,True,12/17/2023,False
+movie_0707,City Voyage,TV Series,Crime,,1980,192,TV-14,French,UK,4.7,,2116094.0,8.0,,False,5/27/2022,False
+movie_0708,Lost Voyage,Limited Series,Thriller,Action,2013,16,TV-14,Spanish,USA,5.8,1964026.0,4947957.0,,,True,6/20/2025,True
+movie_0709,Golden Adventure,TV Series,Music,,2005,158,TV-PG,French,USA,7.1,15062524.0,10858209.0,,,True,5/4/2023,True
+movie_0710,Hidden War,Documentary,Mystery,Crime,1994,22,TV-MA,English,USA,,,9888379.0,13.0,143.0,True,4/16/2023,False
+movie_0711,Royal World,Documentary,Thriller,,2007,7,TV-PG,German,USA,3.3,,20031556.0,,,False,4/16/2024,False
+movie_0712,Lost Dream,Documentary,Comedy,Romance,1999,162,G,English,Spain,,,,,76.0,False,8/25/2025,False
+movie_0713,City Voyage,Movie,Documentary,Horror,2000,50,TV-14,French,France,5.5,,,9.0,,False,5/10/2025,True
+movie_0714,Silent Saga,Documentary,Action,,2013,147,G,Japanese,USA,3.9,,,,,False,12/20/2022,True
+movie_0715,City Voyage,Movie,Mystery,Drama,1991,138,NC-17,English,South Korea,5.6,9840148.0,,1.0,199.0,False,2/27/2022,False
+movie_0716,Journey Mission,Stand-up Comedy,Biography,,2018,126,TV-G,English,USA,,,81436048.0,,,False,8/16/2022,False
+movie_0717,Our Kingdom,Movie,Animation,,1990,80,TV-Y,German,USA,3.8,12881512.0,,,,False,4/25/2022,True
+movie_0718,Big Family,Movie,Horror,,1998,24,TV-MA,Hindi,Japan,,,22419022.0,2.0,,True,6/23/2022,True
+movie_0719,Family Dream,Limited Series,Action,,2024,60,TV-Y7,Korean,USA,10.0,,11467733.0,,116.0,True,2/26/2023,True
+movie_0720,Big World,Movie,Crime,,2019,194,TV-G,Mandarin,Japan,7.0,,,,,False,2/8/2021,False
+movie_0721,Eternal Ice,Movie,History,,2007,150,PG-13,Hindi,South Korea,5.6,,,,149.0,False,8/31/2023,False
+movie_0722,Royal Adventure,Documentary,Drama,,1995,62,TV-14,English,Spain,6.0,754136.0,,,,False,3/30/2025,False
+movie_0723,Our Legend,Movie,Thriller,,2000,62,G,French,USA,7.0,,,,69.0,False,2/25/2023,False
+movie_0724,Royal World,Movie,Sport,,2007,118,PG-13,English,France,9.3,,,,,False,5/25/2021,False
+movie_0725,Bright Family,TV Series,Thriller,,2006,85,TV-Y7,English,USA,5.3,,,1.0,,True,12/13/2022,False
+movie_0726,House Legend,Movie,Adventure,Crime,2005,65,TV-MA,English,Japan,4.9,,,,,False,9/3/2022,False
+movie_0727,Storm Empire,Movie,Action,Documentary,2006,111,TV-Y,Mandarin,USA,3.8,,22222847.0,,,False,12/21/2023,False
+movie_0728,Lost Warrior,Movie,Fantasy,,2004,109,TV-MA,French,France,6.5,2717347.0,22906228.0,,,False,4/3/2022,False
+movie_0729,Secret War,Movie,War,Crime,1990,44,TV-G,English,USA,3.7,,,,,True,7/4/2022,False
+movie_0730,City Ice,Movie,Fantasy,,2000,98,NC-17,English,Spain,5.4,,,,,True,9/20/2024,False
+movie_0731,Eternal Legend,Movie,Comedy,,2016,104,TV-G,English,Germany,4.6,11213246.0,,,,False,11/17/2021,False
+movie_0732,Storm Warrior,Documentary,Adventure,Crime,1990,76,TV-G,French,USA,8.2,,21778835.0,,109.0,True,8/29/2025,True
+movie_0733,Hidden Family,Documentary,Horror,,2004,40,TV-Y,Hindi,South Korea,5.3,,45670058.0,2.0,,True,6/28/2022,False
+movie_0734,Golden Night,Movie,War,,1997,58,TV-Y7,English,USA,7.0,786299.0,,,199.0,False,1/30/2025,False
+movie_0735,Eternal Warrior,Movie,Western,War,2007,33,TV-G,English,UK,3.4,1696565.0,5616025.0,,,False,5/30/2021,False
+movie_0736,Wild Shadow,Limited Series,Sci-Fi,,2002,100,TV-G,Japanese,USA,6.5,,,,,True,8/7/2022,True
+movie_0737,Family Mission,TV Series,Fantasy,,2023,16,PG-13,English,USA,4.1,,8960608.0,,86.0,False,11/20/2022,False
+movie_0738,Secret Legend,Movie,Sport,Animation,2012,207,R,Japanese,UK,5.5,9443021.0,7334199.0,,,True,4/12/2023,False
+movie_0739,Journey Night,TV Series,Western,,1991,179,R,English,Japan,10.0,4911615.0,1685472.0,,,False,6/17/2021,False
+movie_0740,City Adventure,Movie,Comedy,,2014,106,NC-17,English,Japan,8.0,19369384.0,,12.0,,False,3/27/2022,False
+movie_0741,Our Legend,Limited Series,Music,Action,1997,144,R,English,Japan,6.0,11327185.0,,,,False,5/20/2025,False
+movie_0742,House Family,Limited Series,Mystery,,1999,137,TV-MA,Hindi,USA,10.0,,,,100.0,True,8/14/2025,True
+movie_0743,Family Tale,Limited Series,Horror,,2010,86,TV-14,English,USA,4.6,2644859.0,,9.0,27.0,False,3/16/2023,False
+movie_0744,Our Legend,Movie,Thriller,,2000,66,PG,English,France,,3622008.0,,,122.0,False,8/5/2021,False
+movie_0745,Fire Ice,Movie,Music,,2016,61,TV-PG,French,France,3.5,2942431.0,116752582.0,,,False,5/18/2022,False
+movie_0746,House War,Movie,Documentary,History,1997,212,G,Hindi,USA,5.8,,,8.0,71.0,False,10/4/2025,False
+movie_0747,Dragon House,Movie,Action,Drama,1999,39,NC-17,English,USA,3.8,,3140030.0,,,True,8/4/2025,False
+movie_0748,Family Adventure,Movie,Mystery,,1999,40,TV-G,English,France,6.7,,,,176.0,True,1/24/2025,True
+movie_0749,Lost Voyage,Documentary,Crime,,2000,153,PG-13,French,France,6.4,,,1.0,,False,4/24/2025,False
+movie_0750,Journey Tale,Movie,Sport,,2019,143,NC-17,English,South Korea,5.7,,,6.0,,False,7/22/2024,False
+movie_0751,Adventure Empire,Limited Series,Thriller,,2013,63,TV-MA,Korean,USA,8.2,,,,103.0,False,2/12/2024,True
+movie_0752,City House,Movie,Adventure,Family,2024,114,TV-PG,English,Japan,5.2,,,,,True,11/13/2024,True
+movie_0753,Golden Empire,Movie,Adventure,,2024,125,TV-G,English,France,6.9,,,,,True,3/25/2024,False
+movie_0754,Royal War,Limited Series,Horror,,1994,23,TV-Y7,English,USA,7.8,1111743.0,28754693.0,8.0,,True,9/12/2022,True
+movie_0755,Hidden Shadow,Documentary,Music,,2007,187,TV-PG,French,USA,3.6,,,11.0,,True,3/16/2024,True
+movie_0756,Big Empire,Movie,Sci-Fi,Crime,1993,125,PG-13,English,USA,4.9,,11136413.0,,,False,6/24/2022,False
+movie_0757,Bright House,TV Series,Crime,Romance,1997,107,TV-MA,English,South Korea,6.4,,6550068.0,,,True,2/15/2024,False
+movie_0758,City Story,Movie,Family,,1999,126,TV-G,English,USA,7.4,9326786.0,,,,False,11/28/2022,True
+movie_0759,Journey Warrior,Movie,Fantasy,,1994,98,TV-MA,French,France,8.8,,,,,True,6/9/2023,False
+movie_0760,Journey War,TV Series,Fantasy,Horror,1994,72,PG-13,English,France,5.9,,,,,False,11/28/2021,False
+movie_0761,Wild Shadow,Movie,Thriller,,2004,86,TV-Y,French,USA,5.7,1810744.0,,,190.0,False,10/13/2025,False
+movie_0762,Warrior Princess,TV Series,Action,War,1992,21,TV-Y,Korean,South Korea,4.7,5358762.0,,,,True,9/24/2024,False
+movie_0763,Golden Warrior,Movie,Fantasy,,2016,269,NC-17,English,UK,6.9,885980.0,,9.0,48.0,True,7/15/2021,True
+movie_0764,Big Princess,Documentary,Crime,,1996,71,PG-13,Mandarin,USA,5.7,,,,,False,5/17/2023,True
+movie_0765,Dragon Story,Documentary,Crime,Mystery,2024,266,G,Spanish,South Korea,5.8,,,,48.0,True,4/10/2023,False
+movie_0766,Storm Legend,Movie,Mystery,,2001,87,R,English,Japan,,,87705849.0,,,True,6/5/2025,False
+movie_0767,Royal Mission,Movie,Animation,Animation,2007,47,G,English,USA,7.3,,,7.0,173.0,False,10/10/2024,False
+movie_0768,Eternal Legend,TV Series,Drama,War,1991,184,TV-MA,English,UK,5.2,,,3.0,97.0,False,5/23/2025,False
+movie_0769,Our Family,Documentary,Horror,Documentary,2024,104,TV-G,English,UK,4.9,,,,,False,5/2/2023,False
+movie_0770,Dark Heart,Documentary,Animation,,2019,333,PG-13,Japanese,USA,7.1,2353095.0,21703571.0,14.0,,True,10/12/2021,False
+movie_0771,Journey Empire,Documentary,Action,,2009,46,PG-13,Hindi,India,0.8,12537645.0,,,34.0,True,8/9/2024,False
+movie_0772,Storm Kingdom,Movie,Action,,1991,189,TV-PG,Spanish,France,5.2,,,,199.0,False,2/4/2022,False
+movie_0773,City Kingdom,Movie,Drama,,2008,196,PG-13,English,France,,2513257.0,4209407.0,7.0,178.0,False,3/7/2024,False
+movie_0774,Dark Tale,TV Series,Sci-Fi,,1993,132,PG,English,USA,8.4,3493512.0,,,,True,1/20/2023,False
+movie_0775,Journey Legend,Movie,Music,,2023,197,TV-Y7,English,USA,,,728997.0,,,False,10/1/2022,False
+movie_0776,House Tale,Documentary,Biography,,2015,73,TV-Y7,Japanese,USA,5.3,,,9.0,,False,8/5/2021,False
+movie_0777,Adventure Heart,Movie,Family,,2007,39,G,English,France,6.2,1278540.0,,,,False,12/31/2024,False
+movie_0778,Journey Princess,Movie,Horror,,1978,51,G,Hindi,Japan,5.2,,,,,False,6/12/2024,False
+movie_0779,Wild Voyage,TV Series,Sport,,1995,83,PG,Spanish,UK,5.5,,31553795.0,,,False,9/17/2022,False
+movie_0780,Secret Tale,TV Series,Documentary,Romance,2014,137,TV-14,English,USA,6.4,,,2.0,,False,9/8/2024,False
+movie_0781,House Empire,TV Series,Adventure,,2020,41,R,French,UK,5.5,,,,20.0,True,12/6/2025,True
+movie_0782,City Story,TV Series,Biography,Mystery,2019,61,TV-14,Japanese,South Korea,5.5,8445350.0,,,,False,8/9/2024,False
+movie_0783,Lost Adventure,Limited Series,Biography,Action,1988,44,TV-G,German,UK,4.4,1638228.0,,11.0,,False,9/29/2025,False
+movie_0784,Secret Heart,Limited Series,Western,,2009,154,TV-Y7,English,South Korea,4.2,14706892.0,,,,False,5/9/2023,False
+movie_0785,Royal World,Limited Series,Music,,2018,264,R,English,Germany,6.4,,14054479.0,,,False,11/19/2022,True
+movie_0786,Storm House,Documentary,War,,1987,33,PG,Korean,USA,6.8,,,,,True,3/19/2025,False
+movie_0787,Bright Voyage,Documentary,Sport,,2006,118,TV-MA,English,UK,3.7,,,,,False,4/24/2024,False
+movie_0788,Our House,TV Series,Documentary,,2009,168,TV-G,Japanese,India,7.6,,,,,False,1/11/2024,True
+movie_0789,Lost Voyage,TV Series,Biography,Fantasy,2003,68,TV-Y7,English,France,7.7,4685001.0,,,141.0,False,3/17/2024,False
+movie_0790,Fire Heart,Movie,Adventure,,1985,22,TV-Y7,French,USA,,3256043.0,11071042.0,,,False,12/19/2025,False
+movie_0791,House Mission,TV Series,War,Family,2002,183,TV-Y7,German,India,6.8,1269979.0,19505543.0,,,True,6/8/2024,True
+movie_0792,Adventure Adventure,Movie,Animation,,2002,21,TV-MA,English,USA,7.4,,,,156.0,False,1/28/2025,True
+movie_0793,Golden Legend,Movie,Sci-Fi,Sport,2004,219,TV-G,English,USA,10.0,,,,,False,3/7/2021,False
+movie_0794,Hidden Warrior,Limited Series,Animation,,2000,43,TV-Y7,French,USA,5.7,,17825068.0,,123.0,False,8/11/2024,False
+movie_0795,Hidden Legend,Movie,War,,2001,18,TV-PG,English,Japan,4.4,4437215.0,,,163.0,True,8/3/2022,False
+movie_0796,Bright House,TV Series,Family,Fantasy,2006,54,PG,Japanese,USA,3.5,,,,,False,8/14/2021,True
+movie_0797,Night Legend,TV Series,Sport,Drama,2011,78,TV-MA,Korean,Japan,9.4,2150220.0,,1.0,,True,5/20/2022,False
+movie_0798,Dark Princess,Movie,Thriller,Adventure,2003,91,TV-Y7,English,Spain,9.5,,35487454.0,,,False,2/28/2025,False
+movie_0799,Silent Shadow,Limited Series,Music,,2001,125,PG-13,Spanish,Japan,4.6,50551621.0,,11.0,,True,2/1/2025,True
+movie_0800,Hidden Shadow,Movie,Sport,,2007,97,TV-MA,Japanese,Japan,5.0,,,,114.0,False,7/12/2022,False
+movie_0801,House Crown,Limited Series,Horror,,1984,250,TV-G,Korean,Germany,5.7,2992416.0,,,,True,12/17/2021,True
+movie_0802,Hidden Legend,Documentary,Fantasy,War,2011,75,PG,English,South Korea,8.5,2365803.0,,,135.0,True,2/4/2023,False
+movie_0803,Fire Saga,Movie,Adventure,Drama,2006,101,NC-17,English,USA,3.9,,,9.0,156.0,False,8/29/2022,False
+movie_0804,Our Heart,Movie,Adventure,,2006,95,TV-MA,English,USA,2.7,,70547839.0,,,False,4/25/2023,False
+movie_0805,City Family,Movie,Western,,2017,16,TV-Y7,Hindi,France,10.0,,,,,False,12/1/2024,True
+movie_0806,Eternal Princess,Movie,Documentary,Fantasy,1984,28,TV-PG,Spanish,South Korea,6.8,2317900.0,16584796.0,,7.0,False,8/28/2022,False
+movie_0807,Silent Shadow,Movie,Animation,,1983,83,G,German,Japan,7.1,,,,34.0,False,11/13/2021,False
+movie_0808,Storm Princess,Stand-up Comedy,Adventure,,2009,110,NC-17,English,USA,5.9,1257621.0,,,,False,7/17/2021,False
+movie_0809,Eternal Ice,Movie,Documentary,,2006,9,NC-17,Japanese,UK,7.1,,,5.0,158.0,True,6/4/2024,True
+movie_0810,Fire World,Limited Series,Thriller,Music,2008,258,NC-17,German,France,,,,,,True,12/30/2021,True
+movie_0811,City Legend,Movie,Crime,,2001,116,R,Korean,Japan,4.7,,237649131.0,,,False,2/5/2022,False
+movie_0812,Royal Legend,Stand-up Comedy,Sport,,2014,80,G,English,Germany,,4353293.0,,,98.0,False,1/6/2025,False
+movie_0813,Lost World,Movie,Documentary,,2017,113,PG,Spanish,South Korea,,,,,,True,6/19/2021,False
+movie_0814,Lost Kingdom,TV Series,Mystery,Drama,2012,52,PG-13,English,France,5.7,5778040.0,9903749.0,,,False,4/5/2024,False
+movie_0815,Night Family,TV Series,Western,,2003,92,PG,English,France,5.6,,526245.0,,,False,1/21/2021,False
+movie_0816,Lost Saga,Movie,Drama,,1982,103,PG,Hindi,France,5.7,,,9.0,,False,9/17/2025,False
+movie_0817,Fire Saga,Limited Series,Fantasy,,2015,184,TV-Y7,English,Japan,,,,,,True,7/26/2024,False
+movie_0818,Family Ice,Movie,Comedy,,2020,70,R,English,Japan,4.5,,,,,False,2/7/2025,True
+movie_0819,Our Heart,TV Series,War,,2013,21,TV-Y,Japanese,UK,3.0,11752409.0,2193695.0,1.0,,False,5/1/2024,True
+movie_0820,Warrior Legend,TV Series,Thriller,Comedy,1996,38,TV-14,Mandarin,France,6.5,26180613.0,,,,False,1/5/2023,False
+movie_0821,Dark Warrior,TV Series,Music,,2014,66,TV-14,English,Japan,5.7,,,,115.0,False,12/22/2025,False
+movie_0822,Family Heart,Movie,Fantasy,,2016,24,NC-17,French,USA,3.8,,,13.0,,True,12/5/2024,False
+movie_0823,Fire Legend,Movie,Action,,2024,34,TV-Y,English,UK,6.4,,,,74.0,False,6/12/2021,True
+movie_0824,Big Dream,Movie,Documentary,,1996,38,TV-MA,English,France,5.7,,23653631.0,,,False,11/18/2023,True
+movie_0825,Secret Tale,Movie,Horror,,2003,62,TV-PG,English,USA,5.4,,,,,False,9/18/2023,False
+movie_0826,Warrior Legend,Movie,Animation,,2015,115,TV-Y7,Japanese,USA,,,615927243.0,3.0,,False,6/7/2022,False
+movie_0827,Storm Heart,Stand-up Comedy,Comedy,Sport,2007,60,TV-G,English,USA,7.5,,,,95.0,False,4/13/2023,False
+movie_0828,Our Empire,TV Series,Action,,1993,121,TV-14,English,India,4.0,32778229.0,13207453.0,,,True,11/15/2025,True
+movie_0829,Hidden Saga,Documentary,Sci-Fi,,2011,80,NC-17,Korean,Germany,6.4,8438941.0,10744005.0,,89.0,True,6/7/2021,False
+movie_0830,Hidden Empire,Movie,Animation,,2013,35,TV-14,Japanese,Japan,4.8,,,,,False,8/22/2025,False
+movie_0831,Golden Heart,Movie,Animation,,2007,104,R,French,USA,5.6,5036106.0,5580122.0,,,False,7/2/2024,False
+movie_0832,Warrior Kingdom,TV Series,Documentary,Sport,2009,93,PG-13,Spanish,UK,8.4,8635399.0,,14.0,,False,7/24/2021,True
+movie_0833,Adventure Night,Movie,Thriller,,2003,123,R,English,Japan,7.2,3187501.0,,,,False,7/12/2022,False
+movie_0834,Bright Dream,Movie,Crime,,2023,141,R,English,India,8.3,,,,,False,3/12/2025,True
+movie_0835,Adventure Shadow,TV Series,Drama,,1996,188,PG,English,USA,,,821439.0,5.0,6.0,False,7/8/2024,False
+movie_0836,Bright Kingdom,TV Series,Horror,,1999,118,PG-13,Japanese,USA,7.0,7248742.0,,1.0,,False,5/22/2021,True
+movie_0837,City Crown,Stand-up Comedy,Thriller,,2006,90,TV-Y7,English,Japan,3.0,3927551.0,,,,False,9/27/2021,False
+movie_0838,Dark World,Movie,Action,,2016,124,PG,English,USA,5.7,,11372928.0,,46.0,True,8/23/2025,True
+movie_0839,Our Adventure,TV Series,Sport,Biography,1989,55,TV-Y,English,France,5.9,,,,,False,10/15/2021,False
+movie_0840,Royal Ice,Movie,Family,,1991,52,PG-13,English,South Korea,,,,9.0,,False,2/14/2024,False
+movie_0841,Royal Legend,Movie,Biography,,1983,205,PG,Mandarin,USA,5.4,,,,167.0,False,12/22/2025,False
+movie_0842,Dragon Voyage,Documentary,Documentary,,2006,51,PG-13,Japanese,USA,6.7,,,10.0,,False,11/1/2021,False
+movie_0843,Big Ice,Movie,Sport,,1993,39,PG,English,UK,6.7,,,,,True,3/23/2021,False
+movie_0844,Family Night,TV Series,Comedy,,2002,118,TV-14,Japanese,South Korea,8.4,,,,,False,1/31/2025,False
+movie_0845,Royal Family,Movie,Romance,Action,2014,56,TV-14,Korean,Japan,6.0,2861892.0,,,,True,9/30/2025,False
+movie_0846,Bright Saga,Movie,Western,Sport,1999,140,G,English,USA,7.8,,11545787.0,,,True,7/31/2023,False
+movie_0847,Silent Night,Stand-up Comedy,Drama,,2009,179,TV-MA,English,France,3.2,,,,,False,3/2/2022,True
+movie_0848,Our Shadow,Movie,Comedy,,2003,44,TV-PG,French,Japan,3.3,,,,163.0,False,4/19/2021,False
+movie_0849,Journey Princess,Documentary,Western,,2014,128,TV-MA,English,South Korea,2.1,,,,11.0,False,7/22/2025,True
+movie_0850,Big World,Movie,Comedy,,2011,50,TV-MA,Japanese,Japan,7.7,3549029.0,,,147.0,False,6/24/2025,False
+movie_0851,City Princess,Stand-up Comedy,Music,,1998,67,TV-G,Japanese,USA,7.5,,151911188.0,,102.0,True,12/9/2024,False
+movie_0852,Dark Mission,Movie,Fantasy,,2004,101,PG,French,UK,7.9,7821148.0,,,155.0,False,3/2/2023,False
+movie_0853,Royal Tale,Movie,Biography,,2018,52,TV-PG,Mandarin,Japan,5.0,2067423.0,9364172.0,,,True,5/30/2023,True
+movie_0854,Secret Story,Documentary,Animation,,2010,94,TV-G,German,USA,,,,,,False,11/29/2022,True
+movie_0855,City Mission,Movie,Comedy,,1990,71,TV-14,Japanese,Japan,,,,10.0,104.0,False,8/27/2024,False
+movie_0856,Big War,Movie,Mystery,,2013,143,TV-Y7,English,Spain,8.9,,19030626.0,,,False,7/2/2021,False
+movie_0857,Wild Crown,Stand-up Comedy,Western,War,1994,143,G,Japanese,UK,9.3,11584498.0,,7.0,42.0,False,3/15/2021,False
+movie_0858,Silent Saga,TV Series,Family,Horror,2022,52,PG-13,Spanish,USA,7.7,10147502.0,,,,False,10/21/2025,False
+movie_0859,Silent Night,Documentary,Mystery,Crime,2018,102,NC-17,Hindi,UK,6.9,,,,,False,8/4/2022,False
+movie_0860,Family Ice,Documentary,Western,Animation,2009,158,TV-PG,German,USA,8.7,,,3.0,,False,3/5/2021,False
+movie_0861,Storm Crown,Limited Series,Fantasy,,2008,34,TV-MA,English,Japan,5.8,,,,13.0,False,5/13/2024,False
+movie_0862,Silent Crown,Limited Series,Comedy,Action,2004,71,TV-MA,French,Japan,5.6,,,,,False,12/30/2022,False
+movie_0863,Adventure Voyage,TV Series,War,,2014,99,PG-13,Spanish,USA,,,34094388.0,,,True,2/25/2022,False
+movie_0864,Royal Kingdom,Movie,War,,2002,32,G,French,USA,4.5,,110951817.0,,127.0,False,3/5/2023,True
+movie_0865,Family Family,Movie,Animation,,2009,57,PG-13,French,Spain,6.0,,16385305.0,,,False,4/3/2023,False
+movie_0866,Eternal Saga,TV Series,Fantasy,,2016,233,R,Japanese,USA,4.2,,,,,True,1/22/2024,False
+movie_0867,Dark Saga,Limited Series,Documentary,Action,2000,51,TV-Y7,Korean,South Korea,,,,,135.0,False,8/28/2025,False
+movie_0868,Hidden Voyage,TV Series,Sport,,1999,55,TV-PG,English,France,7.3,,,,,True,5/27/2025,False
+movie_0869,Adventure Family,Movie,Romance,,1992,117,PG,English,Japan,,,,,,False,2/17/2025,False
+movie_0870,Dragon Mission,Movie,Music,War,1994,29,TV-MA,German,USA,,,39179526.0,14.0,,False,6/18/2023,False
+movie_0871,Family Crown,TV Series,Music,,1985,72,TV-MA,Hindi,USA,9.7,,,,,False,10/16/2023,False
+movie_0872,Journey Legend,Limited Series,Biography,,2014,39,TV-Y7,Spanish,USA,3.4,,,,,False,8/30/2021,False
+movie_0873,Warrior World,Movie,War,,2024,94,G,English,France,4.1,,13029035.0,,148.0,False,11/19/2023,False
+movie_0874,Secret Night,TV Series,Action,,2022,3,PG-13,English,India,5.1,,,,119.0,False,5/10/2024,False
+movie_0875,Eternal Shadow,Documentary,Mystery,Documentary,1987,85,TV-Y,English,Germany,8.6,465930.0,9671616.0,,,False,6/7/2025,False
+movie_0876,Royal Saga,Stand-up Comedy,Thriller,,2014,101,G,Spanish,USA,6.7,10351848.0,,,,False,3/26/2021,False
+movie_0877,Golden Night,Movie,Animation,,2022,59,R,Korean,USA,5.8,,,14.0,,False,4/25/2025,False
+movie_0878,Golden House,Stand-up Comedy,Western,Horror,2001,62,G,Mandarin,USA,4.8,,3849845.0,,6.0,False,8/5/2023,False
+movie_0879,Big Heart,TV Series,Sci-Fi,,2007,53,NC-17,English,India,3.8,,,,,False,6/11/2021,False
+movie_0880,Lost Kingdom,Documentary,Music,,1983,71,TV-PG,Japanese,USA,8.3,946853.0,,3.0,62.0,False,12/23/2025,False
+movie_0881,Night Adventure,Movie,Action,,2009,207,TV-Y,German,USA,7.7,,38609234.0,,,True,4/30/2023,False
+movie_0882,Dragon Heart,TV Series,Comedy,,1994,146,PG,English,France,8.7,,,,,False,1/21/2023,False
+movie_0883,Lost Story,Documentary,Music,,2008,71,TV-G,Mandarin,Japan,7.0,1192137.0,,9.0,57.0,False,12/15/2021,False
+movie_0884,Adventure War,Movie,Action,,1988,57,TV-Y,Japanese,USA,1.5,4807598.0,21254535.0,,114.0,False,5/14/2021,False
+movie_0885,Storm Mission,TV Series,Crime,Comedy,2012,136,TV-Y7,English,UK,4.0,,,5.0,99.0,False,6/1/2021,False
+movie_0886,Big Night,TV Series,Fantasy,,2018,90,NC-17,English,USA,7.1,36836225.0,,,,True,5/3/2022,False
+movie_0887,Big Night,TV Series,Romance,War,1997,32,PG-13,Spanish,USA,5.6,,20593900.0,,,False,6/18/2022,False
+movie_0888,Bright Family,Movie,Comedy,,1993,65,TV-PG,Korean,USA,5.3,,,,,False,4/26/2023,False
+movie_0889,Big Princess,TV Series,Romance,Sci-Fi,1981,193,G,German,USA,,,,,,True,1/20/2024,False
+movie_0890,House Shadow,Movie,Comedy,,2003,114,TV-PG,German,India,8.0,1424658.0,,,,False,12/16/2025,True
+movie_0891,Storm House,Limited Series,Biography,,1999,58,TV-Y7,English,Japan,7.1,,16732728.0,,,False,12/20/2024,False
+movie_0892,Dragon World,Stand-up Comedy,Documentary,,1988,20,NC-17,German,UK,7.2,,34447728.0,,,False,6/6/2023,False
+movie_0893,Dark Empire,Movie,Music,,2011,94,PG-13,Hindi,USA,5.1,,,,,True,7/24/2025,False
+movie_0894,Warrior Family,Movie,Western,,2001,80,TV-PG,English,UK,,,,,,False,10/15/2023,False
+movie_0895,Journey Crown,Movie,Fantasy,Drama,1994,70,TV-PG,German,India,,,10374341.0,,68.0,False,2/11/2023,False
+movie_0896,Lost Saga,TV Series,Documentary,Romance,2000,137,PG-13,English,USA,6.0,,,,95.0,False,2/1/2022,False
+movie_0897,Big Legend,Limited Series,Fantasy,Sport,2018,115,TV-MA,English,India,1.7,,,,96.0,True,2/10/2023,True
+movie_0898,Journey Mission,TV Series,Biography,Sci-Fi,2013,21,TV-14,English,France,3.4,,,7.0,,True,3/16/2021,True
+movie_0899,Secret Mission,Movie,Music,Western,2005,80,TV-14,Spanish,UK,,6855157.0,,7.0,,False,10/7/2021,False
+movie_0900,Journey Ice,Movie,Romance,Family,2013,26,TV-14,English,USA,10.0,13704234.0,,5.0,,True,9/21/2025,False
+movie_0901,Storm War,Movie,Mystery,History,1993,54,TV-MA,English,France,,,,6.0,175.0,True,12/22/2021,True
+movie_0902,Journey Empire,Limited Series,Family,Animation,2006,24,TV-Y,French,Japan,4.0,8847192.0,,,,False,11/1/2023,True
+movie_0903,Fire Legend,Documentary,Romance,,2008,25,TV-MA,English,Spain,6.7,,,,,False,7/7/2021,True
+movie_0904,Dragon War,TV Series,Horror,History,2001,102,TV-14,German,Germany,9.5,,,,,False,1/3/2024,True
+movie_0905,Storm World,Movie,Thriller,,2011,95,TV-PG,Hindi,USA,6.6,,,13.0,,True,11/17/2025,False
+movie_0906,City Dream,Stand-up Comedy,Horror,,1997,76,TV-PG,English,Spain,7.5,4859028.0,,,6.0,False,4/16/2023,False
+movie_0907,Silent War,Movie,Sport,,2012,50,TV-14,English,Germany,5.7,,,,147.0,False,8/21/2021,False
+movie_0908,Wild Family,Limited Series,Documentary,,2012,23,TV-14,Mandarin,France,5.3,5846022.0,,,,False,2/11/2021,False
+movie_0909,City Empire,Limited Series,Action,War,1973,54,R,English,USA,6.4,,,4.0,53.0,True,10/12/2024,True
+movie_0910,Fire Legend,TV Series,Biography,Mystery,2020,95,TV-MA,English,USA,5.1,,25532253.0,,,True,7/7/2021,False
+movie_0911,House Crown,Limited Series,Fantasy,Animation,1971,94,TV-MA,Mandarin,USA,7.6,,10676040.0,9.0,,False,8/3/2022,False
+movie_0912,House Saga,Movie,Documentary,Crime,1999,190,TV-G,Spanish,USA,3.4,,,,119.0,True,3/20/2025,True
+movie_0913,Bright Saga,Documentary,Fantasy,Biography,2018,172,NC-17,Korean,India,7.9,,,,,False,9/8/2023,True
+movie_0914,Fire World,Movie,Thriller,Documentary,2002,78,TV-Y,Japanese,USA,,10215853.0,,,157.0,True,5/13/2025,False
+movie_0915,Golden World,TV Series,History,,1989,53,G,Hindi,UK,,1744677.0,,12.0,,True,5/12/2025,True
+movie_0916,Big Story,Movie,Music,,1994,40,TV-Y7,Korean,France,3.3,,54060484.0,10.0,,False,4/21/2024,True
+movie_0917,Lost Warrior,Movie,Family,,2018,19,PG-13,Korean,France,4.5,,,,,False,9/5/2025,False
+movie_0918,Family Princess,Movie,War,,1984,29,TV-14,Spanish,USA,8.4,2773822.0,3917913.0,,100.0,False,3/8/2021,False
+movie_0919,Royal Legend,Movie,Music,,2019,95,TV-PG,Korean,France,5.9,2857908.0,,,,False,3/15/2022,True
+movie_0920,Warrior Kingdom,TV Series,Biography,Biography,2005,120,TV-Y,Japanese,France,6.8,4142148.0,,,,True,5/21/2022,False
+movie_0921,Family Family,TV Series,Comedy,,1992,62,PG-13,English,France,4.7,,,5.0,,False,7/22/2025,True
+movie_0922,Eternal Tale,Movie,Family,,1999,326,TV-14,Japanese,USA,6.2,428152.0,,,,True,2/9/2024,False
+movie_0923,Bright Heart,Stand-up Comedy,Thriller,,1994,29,TV-G,Japanese,UK,3.8,,3434864.0,,,False,4/5/2022,False
+movie_0924,Night Ice,Stand-up Comedy,Adventure,Music,2016,17,R,English,USA,6.5,546396.0,128513784.0,,,False,1/16/2022,False
+movie_0925,Adventure Princess,Movie,Sci-Fi,Comedy,2014,322,TV-Y,English,France,,,,,,False,1/8/2025,False
+movie_0926,Storm Empire,Movie,Crime,Action,1986,21,TV-MA,German,USA,6.9,679028.0,2673332.0,,,True,4/17/2025,False
+movie_0927,Family Princess,Documentary,Drama,,2001,62,TV-Y7,English,USA,,,,,,False,1/28/2021,False
+movie_0928,Fire Tale,Documentary,War,Action,1996,43,TV-Y7,English,South Korea,5.7,6115611.0,171749850.0,2.0,,False,10/29/2022,False
+movie_0929,Night Kingdom,Movie,Documentary,,2021,100,TV-Y,English,USA,7.2,,,,93.0,False,9/4/2023,False
+movie_0930,Adventure Crown,Documentary,Fantasy,,1991,58,TV-G,English,Spain,,,15337218.0,11.0,,True,3/5/2022,False
+movie_0931,Bright Legend,Movie,Romance,,2024,121,NC-17,German,Germany,5.7,1070995.0,,,146.0,False,8/17/2024,False
+movie_0932,Hidden Night,Movie,Documentary,,2006,139,TV-14,English,USA,9.7,,,,52.0,False,10/15/2024,False
+movie_0933,Hidden Night,Documentary,Adventure,,1993,19,NC-17,English,USA,4.5,5817930.0,29372839.0,1.0,,False,3/12/2025,False
+movie_0934,Fire Crown,Documentary,Biography,Comedy,1998,39,TV-G,German,USA,8.2,,,8.0,118.0,False,12/5/2024,False
+movie_0935,Dragon Crown,Limited Series,Animation,,1997,128,PG-13,English,Spain,4.2,,30656065.0,,53.0,False,3/16/2025,False
+movie_0936,Dragon Mission,Movie,Comedy,,1991,159,TV-Y,English,France,7.5,10481182.0,,,,False,10/30/2022,False
+movie_0937,Golden Story,Movie,Drama,,2007,88,TV-Y7,German,USA,7.6,,6762169.0,,,False,6/30/2022,False
+movie_0938,Night Family,Movie,Thriller,,1992,106,TV-Y,Japanese,Japan,5.3,626404.0,,12.0,45.0,True,7/31/2022,True
+movie_0939,City Saga,Movie,Family,,1981,198,R,German,USA,4.1,,100211124.0,,,True,4/6/2025,False
+movie_0940,Dark Family,Movie,Music,,2002,59,PG,Spanish,France,2.7,,,,104.0,False,3/30/2024,False
+movie_0941,Night Empire,TV Series,Mystery,,1985,87,PG-13,Hindi,Japan,5.2,,,9.0,,False,8/14/2022,False
+movie_0942,Our Tale,TV Series,Music,,1997,172,NC-17,English,USA,7.2,1390781.0,,,,False,8/9/2024,False
+movie_0943,Golden Princess,Documentary,Drama,,1996,180,TV-PG,German,South Korea,4.3,,,10.0,146.0,True,3/3/2022,True
+movie_0944,Silent Adventure,Movie,Music,,1996,72,PG,French,USA,,45367344.0,12731902.0,,,False,5/2/2022,False
+movie_0945,Storm Adventure,Movie,Sci-Fi,,2024,40,TV-MA,English,Japan,3.6,,,,,False,1/3/2021,False
+movie_0946,Warrior Empire,Documentary,Drama,History,2007,71,TV-MA,Hindi,France,5.8,3981599.0,,14.0,,False,10/30/2025,True
+movie_0947,Wild Shadow,Movie,Fantasy,,2009,77,PG,English,India,4.2,1075143.0,,12.0,,False,3/7/2022,False
+movie_0948,Fire Tale,Limited Series,Adventure,Crime,1986,39,TV-MA,Spanish,Japan,6.1,13844534.0,,,,False,10/4/2024,False
+movie_0949,Lost Saga,Movie,Horror,,1999,44,TV-Y,Korean,Spain,5.4,,,,,True,8/5/2021,False
+movie_0950,Bright House,TV Series,Fantasy,,2008,180,TV-Y,Japanese,USA,4.1,8937211.0,,,117.0,False,3/7/2021,False
+movie_0951,Adventure Ice,Limited Series,Romance,,1994,109,TV-MA,English,Germany,5.1,,,,,False,5/16/2024,True
+movie_0952,Dark Empire,TV Series,Fantasy,,2016,62,G,Hindi,USA,4.6,,,,,False,6/29/2021,False
+movie_0953,Big Empire,TV Series,Thriller,Sport,1992,31,PG-13,Japanese,UK,3.9,2950786.0,,4.0,143.0,True,9/22/2021,False
+movie_0954,House Princess,Documentary,Comedy,Romance,2003,45,G,English,USA,8.2,22073283.0,,12.0,,False,8/26/2022,False
+movie_0955,Dragon Story,Movie,Romance,,1999,16,TV-G,English,India,5.6,7517379.0,,,26.0,True,12/5/2023,False
+movie_0956,Storm Saga,Documentary,War,Horror,2008,89,TV-14,German,Spain,2.3,433991.0,,,,False,2/3/2021,False
+movie_0957,Dragon Voyage,Limited Series,Sci-Fi,,1999,42,TV-14,English,USA,5.1,,19917057.0,8.0,,False,8/19/2021,False
+movie_0958,Big Ice,Stand-up Comedy,Action,Mystery,2003,95,NC-17,Japanese,Japan,7.9,,,8.0,,False,9/9/2022,False
+movie_0959,House War,TV Series,Crime,,2003,127,TV-MA,French,France,4.9,9802733.0,,,76.0,False,7/9/2024,False
+movie_0960,Family Ice,Movie,History,,1998,96,G,English,USA,9.0,6005525.0,47611005.0,,153.0,False,6/27/2021,False
+movie_0961,Night Ice,Documentary,Mystery,,2012,56,PG-13,Japanese,UK,4.7,,,,,False,6/6/2022,False
+movie_0962,Hidden Adventure,TV Series,Sci-Fi,,2009,37,TV-PG,English,UK,,5224294.0,45505599.0,,,False,12/18/2021,False
+movie_0963,Big Family,Movie,Drama,,2005,27,NC-17,Hindi,Japan,8.1,,107449763.0,,,False,7/18/2022,False
+movie_0964,Big Family,Movie,Comedy,,2001,168,PG,Spanish,USA,7.1,,,,,True,4/16/2022,False
+movie_0965,Warrior Story,Movie,Biography,Crime,2015,93,R,English,Spain,3.8,7099457.0,,,,False,3/14/2024,False
+movie_0966,Storm War,TV Series,Comedy,Horror,2003,59,PG-13,Japanese,USA,4.6,,,,,False,5/3/2021,False
+movie_0967,Hidden Story,Movie,Sci-Fi,,2003,116,G,Japanese,France,8.4,,7656395.0,,,False,9/10/2025,False
+movie_0968,Our Princess,Movie,Family,,2007,150,TV-Y,Mandarin,USA,4.8,,,,6.0,False,3/23/2022,False
+movie_0969,Night Kingdom,Movie,Romance,,2024,43,G,English,USA,8.0,,25345653.0,5.0,,False,12/15/2025,True
+movie_0970,Secret Mission,Stand-up Comedy,Crime,,1991,91,TV-Y7,Japanese,USA,5.5,,,3.0,,True,8/24/2024,True
+movie_0971,Our Empire,Movie,Romance,,2015,92,G,Hindi,USA,6.5,,10867208.0,9.0,,False,10/15/2022,False
+movie_0972,Wild Legend,Movie,Family,,1984,193,PG,English,France,3.8,,,9.0,40.0,False,7/6/2022,True
+movie_0973,Night Family,TV Series,Western,,2008,58,TV-MA,Japanese,Japan,5.2,,21987832.0,9.0,,False,9/24/2025,False
+movie_0974,Our Story,Movie,History,,2024,36,TV-PG,English,UK,,,27594867.0,,,True,12/24/2025,False
+movie_0975,Dragon House,Stand-up Comedy,Biography,,2012,98,TV-Y,Korean,UK,6.7,,,,,False,1/23/2024,True
+movie_0976,Royal Heart,Limited Series,Mystery,,2008,122,PG,English,USA,6.4,,,,,False,3/27/2021,False
+movie_0977,Storm War,Movie,Family,,2000,85,PG,Mandarin,USA,,,,,,True,7/13/2025,False
+movie_0978,Secret Night,TV Series,Adventure,Crime,2006,201,TV-MA,English,France,5.4,12672006.0,,,,False,5/21/2023,False
+movie_0979,Adventure Ice,Movie,Western,,2003,58,PG,English,France,4.6,3520604.0,,,,True,2/20/2021,False
+movie_0980,Silent Mission,Movie,War,,1997,87,PG-13,Spanish,Japan,6.6,908528.0,60276306.0,1.0,56.0,False,1/3/2025,True
+movie_0981,Hidden World,Movie,War,,2003,21,TV-MA,German,USA,4.4,3307431.0,,9.0,,True,3/2/2021,True
+movie_0982,Our Tale,Movie,Adventure,Music,2008,34,TV-Y,French,South Korea,,,,14.0,162.0,True,11/10/2022,False
+movie_0983,Eternal Crown,Movie,Western,,1997,43,R,French,USA,,7114015.0,,,167.0,False,5/17/2021,False
+movie_0984,Night War,TV Series,Crime,,1997,66,TV-MA,English,France,5.7,,,8.0,,True,3/9/2023,False
+movie_0985,Hidden Princess,Movie,Western,Sport,1990,24,PG,Korean,USA,7.1,,,,127.0,True,1/8/2025,False
+movie_0986,Hidden Story,Movie,Western,Fantasy,2010,115,NC-17,English,France,6.1,17383081.0,,,,False,8/24/2021,False
+movie_0987,Dark House,TV Series,Thriller,,2012,40,TV-PG,English,USA,,11877234.0,10175579.0,,,True,9/9/2021,False
+movie_0988,Lost Warrior,TV Series,Documentary,Sport,2009,289,G,Hindi,UK,4.3,,,,,True,10/12/2025,True
+movie_0989,Royal House,Movie,Western,,2017,42,TV-Y,French,USA,8.2,,,,30.0,False,11/19/2021,True
+movie_0990,Storm Voyage,Movie,Sci-Fi,,2007,80,R,English,Japan,6.4,,,,,False,7/25/2021,True
+movie_0991,Silent Heart,Movie,Music,Animation,2010,73,TV-Y,English,USA,3.2,8069164.0,,,,False,12/5/2023,False
+movie_0992,Storm Crown,Movie,Animation,,2009,32,TV-MA,Hindi,UK,6.9,2241207.0,,3.0,,False,5/20/2022,False
+movie_0993,Silent Voyage,Limited Series,Romance,,2005,66,TV-PG,English,USA,,4547370.0,13400969.0,,,False,10/14/2025,False
+movie_0994,Hidden Mission,Limited Series,Sci-Fi,,2000,65,TV-Y,English,USA,4.7,3349502.0,,,,False,10/26/2021,True
+movie_0995,Warrior Story,Movie,Adventure,Sport,2024,139,TV-MA,English,UK,4.2,,,13.0,,False,11/1/2023,True
+movie_0996,Adventure Adventure,Movie,Drama,,2001,101,NC-17,English,USA,8.1,4535544.0,,,39.0,False,8/8/2025,False
+movie_0997,House Dream,Documentary,Biography,,1998,113,TV-Y7,English,USA,,2569015.0,,,,False,8/29/2024,False
+movie_0998,Bright Legend,Documentary,Crime,Crime,2011,137,TV-PG,Mandarin,South Korea,4.8,,,,,False,2/22/2021,False
+movie_0999,Lost World,Movie,Biography,Western,2009,115,TV-G,English,South Korea,6.5,,6792577.0,,,False,12/9/2021,False
+movie_1000,House Legend,Movie,Animation,,1990,90,TV-Y7,Japanese,Germany,9.1,,7611813.0,,,False,8/17/2021,False
+movie_1001,Wild Warrior,TV Series,Adventure,,2019,43,TV-G,French,USA,7.3,,,4.0,,True,7/27/2025,False
+movie_1002,Night War,TV Series,Crime,,2005,86,G,Japanese,Japan,4.7,,,13.0,,False,1/4/2022,False
+movie_1003,Eternal Family,Movie,Documentary,,1993,37,PG-13,French,South Korea,9.0,1857826.0,,,,False,4/12/2021,True
+movie_1004,Family Princess,Movie,Comedy,Adventure,2020,70,PG,Korean,USA,3.8,1740737.0,19912826.0,,,False,11/30/2022,False
+movie_1005,Eternal Heart,Movie,Adventure,Fantasy,2013,63,PG-13,Korean,UK,6.8,,22203497.0,,,False,6/1/2022,False
+movie_1006,Journey Night,Movie,Music,,1992,66,PG,Korean,USA,7.2,,12528770.0,,152.0,True,10/26/2021,True
+movie_1007,Our Story,TV Series,Documentary,,2024,24,TV-14,German,Spain,,,,,,True,4/9/2023,False
+movie_1008,Silent House,Documentary,Music,Comedy,2014,3,R,French,France,7.5,5501029.0,27960605.0,14.0,,False,7/2/2025,False
+movie_1009,Family Shadow,TV Series,Thriller,Drama,2006,54,TV-Y7,German,Japan,5.3,,103614388.0,11.0,,False,2/17/2022,False
+movie_1010,Dark War,Movie,History,Comedy,2024,160,PG,English,Japan,7.5,14565413.0,,,,False,11/27/2025,False
+movie_1011,House Dream,Movie,Action,,2008,80,TV-Y7,Korean,USA,,,,,,True,4/26/2024,True
+movie_1012,Silent Heart,Limited Series,Documentary,,2006,152,PG-13,French,USA,,,,4.0,,True,11/29/2022,False
+movie_1013,Storm War,TV Series,Animation,,1998,37,TV-Y,English,UK,5.5,13580030.0,15606569.0,,,False,5/23/2024,True
+movie_1014,Golden Story,Movie,Sci-Fi,,2013,52,TV-G,Spanish,Japan,8.4,5536862.0,,,6.0,True,9/28/2022,False
+movie_1015,Adventure House,Movie,Comedy,,2011,300,TV-14,English,Japan,6.2,,,,,False,1/22/2022,True
+movie_1016,Lost Princess,Limited Series,Crime,,2006,39,PG,English,USA,8.5,,,,103.0,False,3/5/2022,False
+movie_1017,Storm Dream,Documentary,Western,,1997,112,TV-Y,Spanish,UK,7.2,3891204.0,5611361.0,,,False,1/16/2021,False
+movie_1018,Secret Tale,Limited Series,Documentary,,2007,112,TV-G,English,USA,,,1387674.0,,,False,3/29/2024,False
+movie_1019,Lost Legend,TV Series,Music,,2005,103,TV-PG,English,USA,7.7,4815332.0,,,37.0,False,5/16/2021,False
+movie_1020,Secret Adventure,TV Series,Western,,1991,113,PG-13,English,Spain,7.7,,30786168.0,,77.0,False,12/29/2021,False
+movie_1021,House Saga,TV Series,Fantasy,,1989,38,NC-17,Spanish,Japan,7.1,526588.0,,11.0,,False,1/1/2021,False
+movie_1022,Bright Crown,Movie,Western,,2012,56,G,English,Japan,2.1,,4500179.0,,81.0,False,4/29/2021,False
+movie_1023,House World,Documentary,Music,,1976,4,TV-MA,French,India,4.5,2747892.0,13813846.0,,,False,7/11/2025,True
+movie_1024,Family Ice,TV Series,History,,2008,197,TV-PG,German,USA,8.8,,88793379.0,,,True,2/13/2021,True
+movie_1025,Bright Dream,Movie,Fantasy,,2001,112,R,Korean,Spain,4.0,6463458.0,1688618.0,,106.0,True,2/9/2024,False
+movie_1026,Our Legend,Limited Series,Western,Horror,2021,44,TV-Y7,Hindi,UK,7.9,,,12.0,,False,8/22/2022,False
+movie_1027,Big Story,Movie,Action,Sport,2000,37,TV-Y7,German,France,7.5,,6723561.0,,,False,9/10/2021,True
+movie_1028,Dark Night,Movie,Biography,Animation,2014,161,TV-G,English,USA,5.0,4900470.0,,10.0,60.0,False,7/1/2022,False
+movie_1029,Bright Crown,Movie,Romance,,2001,41,TV-G,Mandarin,USA,2.7,4702679.0,8082335.0,14.0,84.0,False,6/18/2021,False
+movie_1030,Night Night,Limited Series,Action,Adventure,2007,43,TV-MA,Japanese,USA,5.2,,,,,False,7/26/2022,False
+movie_1031,Wild Kingdom,Limited Series,Thriller,Crime,2014,31,NC-17,English,USA,10.0,,,,,False,2/1/2025,True
+movie_1032,Our Shadow,TV Series,Action,,2001,127,PG,English,USA,4.7,,,,76.0,False,2/7/2024,True
+movie_1033,Lost Ice,Stand-up Comedy,Documentary,,2017,150,TV-14,Korean,France,4.8,,,,,True,1/20/2025,False
+movie_1034,Dark Saga,Limited Series,Fantasy,Animation,1995,63,TV-G,English,UK,4.5,,,9.0,,False,6/25/2024,False
+movie_1035,Big Adventure,Limited Series,Action,,2009,151,PG,Japanese,USA,8.5,,,5.0,,True,8/20/2025,False
+movie_1036,Warrior Dream,Limited Series,War,,2017,97,TV-G,English,UK,5.8,,,12.0,,True,7/17/2021,True
+movie_1037,Night House,Movie,Biography,,2014,29,NC-17,Japanese,Spain,,2495412.0,,,,True,10/18/2021,True
+movie_1038,Dark Night,Documentary,Animation,Drama,2024,187,TV-MA,English,UK,8.8,2381077.0,2442943.0,,,False,1/21/2023,False
+movie_1039,Journey Adventure,TV Series,War,,1997,30,G,Spanish,South Korea,7.3,4251243.0,,10.0,86.0,False,8/12/2023,False
+movie_1040,City Family,Documentary,Family,Sci-Fi,1990,67,R,English,UK,4.6,,22413841.0,,,False,12/1/2024,False
